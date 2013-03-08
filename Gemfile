@@ -1,6 +1,8 @@
 source "http://rubygems.org"
 
 group :development do
+  gem 'rb-inotify'
+  gem 'shotgun'
   gem 'rake'
   gem 'rack'
   gem 'jekyll'
