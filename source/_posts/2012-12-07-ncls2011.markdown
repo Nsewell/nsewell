@@ -1,0 +1,144 @@
+---
+layout: post
+title: "Health Check for a Dying Church: NCLS 2011"
+date: 2012-12-07 20:17
+comments: true
+categories: 
+---
+
+Recently [Andrew West published an opinion piece suggesting the church should still be considered a public good despite widely publicised scandals][smh]. Trying to find sources for the 2011 NCLS data, however, turns up only statements from Dr Ruth Powell, the director of the National Church Life Survey from her [interview with West on Radio National][rn]. Looking at the transcript, a few key points come up.
+[smh]:http://www.smh.com.au/opinion/society-and-culture/in-spite-of-the-scandals-religious-groups-still-lead-the-way-on-public-good-20121206-2ay69.html
+[rn]:http://www.abc.net.au/radionational/programs/religionandethicsreport/australia27s-national-church-life-survey/4397166
+
+> Ruth Powell: What we see from the results are that even though the church may be smaller than it was in previous decades, in a sense it’s consolidating. It is stronger. The signs of health are greater than they were a decade ago. We don’t have any results on numerical growth or decline at this stage. There are signs overseas that perhaps plateau has taken place. We don’t have the data in Australia yet.
+
+8 days earlier, the [Herald Sun published Powell's opinion piece][heraldsun] specifying that the proportion of believers going to church once a month is "around 15%", whereas [NCLS data][ncls-98-02] from 1998 found that 20% of the population claimed to attend religious services at least monthly or more often and in 2002 this figure had dropped to 18.6% of the population. The continuation of the decline from 2002 should also suggest that when the figure is released, it is likely that weekly attendence will have also dropped below the [7.5% of Australians in 2001][ncls-2001].
+
+[heraldsun]:http://www.theherald.com.au/story/1131735/opinion-churches-future-depends-on-their-followers/
+[ncls-98-02]:http://www.ncls.org.au/default.aspx?docid=2278
+[ncls-2001]:http://www.ncls.org.au/default.aspx?docid=2250
+
+> Ruth Powell: Six out of ten people who are in church are women. Now that’s not a new trend. Women are generally more religious than men. That’s something that sociologists have found in pretty well every country and every religion... And there are some signs that working women are less likely to go to church than men... 
+
+>Church is a space that is often very relational. And women tend to be strong in terms of building and nurturing relationships with others. And I think that the space for exploring those issues…church communities, faith communities, facilitate that sort of relationship... 
+
+>We have many studies happening in terms of attitudes to women. But there are those who are embracing the role of women in leadership and those who have a different perspective. But what we see is, women are the bedrock of a lot of churches. They are the ones who are filling voluntary roles, not only in the churches but also in terms of the wider communities.
+
+Many Christians have opinions on the cause of the observed gender gap. Christian Piatt suggests that it is normal and natural for [women to be caregivers and therefore are better at establishing community][piatt-women]. But this glosses over the real issues, and the major implications in church life. With over 60% of the church being women, a third less men are there. 25% of married Christian women [go to churches their husbands refuse to attend][murrow-feminine].
+
+This leaves roughly 8% are single women who don't have single men in their church to consider dating, a position that can be emotionally draining.
+David Murrow, author of Why Men Hate Church tells the story of Caroline, "a twenty-nine-year-old single woman who won’t date non-Christian men. “But I’m beginning to rethink that... There are no single guys my age." Many other Christian singles have given up on the idea that they could meet a Christian man at church, worried that they ["would miss out on “the man” if [they] chose the wrong gym"][gym]. Responding to a blog post on singleness, churchgoing Sydney Anglican women spoke of dejection at being [isolated and ignored for their singleness][anglican-singleness]:
+
+[gym]:http://oursinglepurpose.com/2012/10/10/be-still/
+[tried-praying]:http://oursinglepurpose.com/2012/09/18/top-10-things-married-people-should-never-say-to-a-single-woman/
+[anglican-singleness]:http://sydneyanglicans.net/life/daytoday/single_christian_female_30
+>I often feel like the freak no one wants to talk to at church…”
+
+>“[singles] feel invisible or unwanted because they are in the minority.”
+
+>“I don't want to be left standing all by myself after church or have people walk away from me when I try and start a conversation with them.”
+
+>“It is so painfully lonely not fitting in and feeling socially worthless, particularly when you hear about all the social gatherings that go on, none of which you ever receive an invitation to. It is awful.”
+
+>“It is really hard to continue going to church when every week you know you will be left out after the meeting. It is painful watching friends greet each other and give out invites and be all happy and together.”
+
+>“I am looking for a little bit of love from my Christian community, but instead I feel like a leper… I never get invited anywhere.”
+
+>“People think that you must be busy Friday and Saturday nights, and the reality is, that you’re sitting at home in front of the TV…”
+
+>“I have not met any single person in their 30s who is not really hurting… Get to your mid 30s, when all your friends are married, the reality is that while your married friends' social network is rapidly expanding, the single persons' network is rapidly diminishing.”
+
+Murrow suggests that the church drives 'manly' men away with its feminised culture. He writes ["Today’s churchgoing man is humble, tidy, dutiful, and above all, nice"][Murrow], suggesting that men excusing themselves saying that church is boring and irrelevant could be more concerned at the lack of masculinity. Murrow's critique is mostly directed at stylistic issues, suggesting that "The feminine atmosphere in our churches causes women to feel loved and nurtured, but men to feel hesitant and restrained" and pushing for changes to preaching styles and worship teams.
+
+
+
+Dr Rod Rosenbladt goes further than stylistic issues, suggesting that [it is the ministers who closely identify with the maternal symbolism of church][Rosenbladt], making the many men (and women) already angry with what the church has done reject it outright:
+[Rosenbladt]:http://www.newreformationpress.com/blog/nrp-freebies/the-gospel-for-those-broken-by-the-church/
+[piatt-women]:http://www.redletterchristians.org/why-women-are-the-key-to-the-churchs-future/
+[Murrow]:http://www.cbn.com/spirituallife/ChurchAndMinistry/menhatingchurch.aspx
+[murrow-feminine]:http://churchformen.com/men-and-church/info-for-pastors/
+
+>There is a predictable psychological profile of the clergy, including our closer
+relationship with our mothers, but not with our fathers. For most of us pastors, the link
+between Jesus and the church (a mother symbol) is so tight, so identical, that to be
+angry with mother church is the same as rejecting Jesus! It is not.
+
+
+Paul Coughlin paints a starker picture of churches [actively driving away men by demonising them as spiritual losers and sexual predators][coughlin]:
+[coughlin]:http://www.crosswalk.com/blogs/paul-coughlin/pain-and-prejudice-11535858.html
+>Here are some of the messages Christian men have been told, some for decades:
+>
+> *   If there is a major problem in a couple’s marriage, whether or not it leads to divorce, it is ultimately the husband’s fault.
+> *   Women are more moral and spiritual than men.
+> *   Women are more sensitive to the Holy Spirit than men.
+>
+>Christian men don’t like the prejudice against them, they complain--sometimes bitterly--in private, but they keep going, though something happens to many of them beginning in their late thirties. Church becomes a chore. And a bore. They go out of duty, not because they receive much inspiration there as men, or truly helpful instruction regarding marriage and gender differences. They go because they feel they have to.
+>
+>If you question this prejudice against men, then ask yourself: Why do men have “Accountability Groups,” at church, yet women have “Fellowship Groups”? Men are treated as if they are one step away from committing felonies. So they require constant monitoring, constant “accountability,” as if they are at risk of jumping a form of spiritual bail.
+>
+>Bigotry robs people of dignity and value. It frustrates common and healthy human desires, creates dark psychic storm clouds, and unless a man is unusually robust, creates spiritual fissures. Bitterness, anger, and resentment seep into men’s souls
+
+Powell goes on to explain the aeging demographic, correllated with an oversupply of women in dying churches.
+ 
+> Ruth Powell: The average age of a church attender is 55-years-old. And that is ageing. So those big mainstream denominations have more older people and partly it’s history catching up with them. In the ’60s and ’70s, the baby-boomers—those born after World War II—as we say: they voted with their feet. And they said, church is not engaging me, the institutional church is not making a connection—they left. And the church said, that’s all right, they’ll be back, they’ll have kids and they’ll come back, because that’s what’s always happened in the past—and it had. Your stage of life was the thing that affected. The problem is, that generation didn’t come back, the following generation were less there and then now, the children are less there.
+
+Many Chrisitans believe that the Millenial generation will come back into the church if young adults leave during their younger years. But discussion from Barna suggests that this may not be the case, with [the Millenial generation delaying committment, marriage and children][barna-dropout].
+[barna-dropout]:http://www.barna.org/teens-next-gen-articles/534-five-myths-about-young-adult-church-dropouts
+
+>Millennials are getting married roughly six years later than did the Boomers; they are having their first child much later in life; and they are eight times more likely than were the youth of the 1960s to come from homes where their own biological parents were never married...  If this generation is having children later in life, are church leaders simply content to wait longer? And if Mosaics return, will they do so with extra burdens—emotional, financial, spiritual, and relational—from their years apart from Christian community? More to the point, what if Mosaics turn out to be a generation in which most do not return?
+
+
+
+Other trends indicate that more children are born out of wedlock. If couples with chrilden are key to the future of the church, will churches be ready to accept those who have had their kids before marriage, if they married at all? Dr Arnie Cole suggests that the church has a bad history in this regard, with many [mean, bitter Christians proclaiming their self-righteousness and believing it is evangelism][gotandem-mean]:
+[gotandem-mean]:http://www.gotandemblog.com/mean-christians
+
+>when I was a non-believer living with Char before we were married, a Christian brother would come up to me and say bluntly that all fornicators go to hell. This poor guy tried to do all the work of the Holy Spirit for me, the spiritual loser. This mean-spirited approach simply left out the heart of Jesus or the love He has for the lost person.
+>
+>The funny thing is, Satan tricked him into thinking he had proclaimed God’s Word when, actually, I was so offended that I’d become more resistant than I was before God was “proclaimed” to me.
+
+
+
+This form of moralising is a far cry from preaching that Jesus wants the rose.
+{% youtube bLgIecL1IdY %}
+ 
+> Ruth Powell: we can see the ageing starting with the Pentecostals but they are still much younger even than the general Australian population and that’s an interesting story for all the churches to listen to and say, what is attractive to some young people, Australian people, that those Pentecostal churches are offering... 
+
+>Whether that’s the music…but it’s things such as language, dress, informality et cetera, that means there are fewer cultural barriers for a society, say, that has become more informal. Now, I still think that there are a lot of young people who have disengaged from not only church, but from religion and spirituality generally. And that’s what we hear from the wider community. And so even though some churches are doing well at connecting, I think the message remains that there are a lot of young people for whom the churches have not yet found a way of communicating their message in an engaging or relevant way.
+
+
+Many have written on the challenge of creating a community that is [culturally relevant while also theologically open to questions on non core issues][rhe-sunday]. Rachel Held Evans writes that she is "tired of being seen as a project and a prayer request because I believe the earth is more than 6,000 years old and that Anne Frank didn’t go to hell". In fact, Brian McLaren suggests that conservative churches with a young demographic [attract many theological liberals who keep quiet about their beliefs][mclaren-evangelicals]:
+[rhe-sunday]:rachelheldevans.com/sunday-morning
+[mclaren-evangelicals]:http://www.huffingtonpost.com/brian-d-mclaren/why-do-evangelicals-disli_b_517094.html
+
+>Many are afraid to admit that they voted for Barack Obama, or believe in evolution, or are concerned about global climate change, or are OK with their friends being gay or priests being married, or use birth control, or wish women could be treated as equals in their church, or don't take every word of the Bible as having equal authority and historical accuracy. If they speak up, they will be shunned by their religious authorities -- and zapped by their fellow Christians who have been told to press the punishment button when anyone dares to differ by giving the "wrong" answer. So they comply.
+
+West goes on to quiz Powell about why people go to church.
+
+> Andrew West: [Church atendees] go because they believe in God. But for some people it’s actually a lot more complex.
+> 
+> Ruth Powell: No, in fact we know from our…people who are new to church life, that beliefs come later. You start with belonging. You start with relationship. You start going to church because a friend says, hey, this is a place that’s helped me in my life; it’s helped, it’s…you know, they fed me when my…when we were going hungry, they’ve helped my kids, they were there when life was tough for me. You should come and check this place out. It’s a good community to be part of. Newcomers come because someone invited them.
+> 
+> Now when we look at just the broader spread of church attenders, why do they go? It is faith…it’s reasons of practices of faith. They’re going to explore faith, to grow in their faith, to find out about faith. And so you look…that’s what they value; they value those aspects that are the faith practices. They also value belonging. And what they…when we ask them, what do you think this church should be working on in the next 12 months—because in a sense this is a strategic planning tool for churches—and we say, all right, what can you improve on? The top thing is, we want…make this place a place where people feel they belong. Grow our sense of community and belonging because again, it’s the Putnam bonding social capital, you know. It’s in that social glue that I can grow in my faith. This is not a solo thing. I do it better with other people.
+
+Evangelicals have always believed that the bible can be shown to be evidentially true, and that faith following from the facts is enough to create feelings among believers.
+
+From the section "[Now That You Have Received Christ][caboose]" from the Campus Crusade for Christ's 1958 Four Spiritual Laws booklet
+
+>Do Not Depend on Feelings
+
+>The promise of God's Word, the Bible - not our feelings - is our authority. The Christian lives by faith (trust) in the trustworthiness of God Himself and His Word. This train diagram illustrates the relationship among fact (God and His Word), faith (our trust in God and His Word), and feeling (the result of our faith and obedience) (John 14:21).
+
+> ![Caboose of Feelings pulled by Faith](/images/caboose.gif "Caboose of Feelings pulled by Faith")
+
+>The train will run with or without a caboose. However, it would be useless to attempt to pull the train by the caboose. In the same way, as Christians we do not depend on feelings or emotions, but we place our faith (trust) in the trustworthiness of God and the promises of His Word.
+
+It's interesting to find a Catholic admitting that, for some believers, it seems to be that the train of belief is driven by the caboose, with belief in God and adoption of Christian teaching and morals following a feeling of acceptance and belonging in the community.
+[caboose]:http://www.campuscrusade.com/Now-That-You-Have-Received-Christ.html
+
+> Andrew West: How many people find it easy to ask others to come to church?
+> 
+> Ruth Powell: Well I think this is the key story for the churches. I think churches…if we sling back in history, you had the village church and mostly Anglican, you know: Church of England. Every village had their church and everybody in the village belonged to the village church. And that was brought out to Australia and you had the parish church and if you were in that parish, and this is how still the Catholics think, if you’re in the parish and you’re Catholic, well you belong to our parish.
+> 
+> Now that’s all breaking down now. And the place of church in Australian society, as in many western societies, is being renegotiated. And I think the church is probably a little bit in the wilderness at the moment and it’s going to take decades—it is taking decades—to find their role and their place. And partly, the churches are needing to discover what it is to be in mission, to be a sent people again, and to actually work out how to speak of the message that they believe they have, to a society that is saying, you are not relevant, you are not useful, I do not trust you. And so inviting becomes to relationship and you need to invite. And churches…people who go to church, if church is to survive, people will need to have to work out how to share in an authentic way what it is that their faith community offers them and why they would encourage others authentically to experience that same…
+
+

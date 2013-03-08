@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Logo"
+date: 2012-07-02 16:41
+comments: true
+categories: programming
+---
+
+Logo is a classic lisp like turtle graphics language and was my introduction to programming. With Logo, you can teach some advanced concepts like fractal patterns, and there's some great online examples that demonstrate a few simple, elegant algorithms to generate pretty pictures.
+
+Papert is a really nice online Logo interpreter using JavaScript and Canvas, look at these examples:
+
+![Tree (with colour)](http://logo.twentygototen.org/CayQ5WNa.png)
+[Tree (with colour)](http://logo.twentygototen.org/CayQ5WNa)
+![Koch Snowflake](http://logo.twentygototen.org/_REo_2F2.png)
+[Koch Snowflake](http://logo.twentygototen.org/_REo_2F2)
+
+![Hilbert Curve](http://logo.twentygototen.org/dZ1f62XY.png)
+[Hilbert Curve](http://logo.twentygototen.org/dZ1f62XY)
+![Sierpinski triangle](http://logo.twentygototen.org/83EGZPPC.png)
+[Sierpinski triangle](http://logo.twentygototen.org/83EGZPPC)
+
+![Sierpinski carpet](http://logo.twentygototen.org/4c5iy9iU.png)
+[Sierpinski carpet](http://logo.twentygototen.org/4c5iy9iU)
+![Sierpinski arrowhead](http://logo.twentygototen.org/hYDSZt8h.png)
+[Sierpinski arrowhead](http://logo.twentygototen.org/hYDSZt8h)
+
+![Hexaflake](http://logo.twentygototen.org/AJeuVkKc.png)
+[Hexaflake](http://logo.twentygototen.org/AJeuVkKc)
+![Gosper curve](http://logo.twentygototen.org/mJjiNzK0.png)
+[Gosper curve](http://logo.twentygototen.org/mJjiNzK0)
+
+![Sierpinski triangle in dots](http://logo.twentygototen.org/PQD5ksVB.png)
+[Sierpinski triangle in dots](http://logo.twentygototen.org/PQD5ksVB)
+![Sieve of Erastosthenes (Prime generator)](http://logo.twentygototen.org/HxD0BYNH.png)
+[Sieve of Erastosthenes (Prime generator)](http://logo.twentygototen.org/HxD0BYNH)
