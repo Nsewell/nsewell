@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: programming | Nick Sewell]]></title>
-  <link href="http://Nsewell.github.com/nsewell/blog/categories/programming/atom.xml" rel="self"/>
-  <link href="http://Nsewell.github.com/nsewell/"/>
-  <updated>2013-06-05T00:40:10+10:00</updated>
-  <id>http://Nsewell.github.com/nsewell/</id>
+  <link href="http://nsewell.com//blog/categories/programming/atom.xml" rel="self"/>
+  <link href="http://nsewell.com//"/>
+  <updated>2013-06-05T01:06:57+10:00</updated>
+  <id>http://nsewell.com//</id>
   <author>
     <name><![CDATA[Nick Sewell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Logo]]></title>
-    <link href="http://Nsewell.github.com/nsewell/blog/2012/07/02/logo/"/>
+    <link href="http://nsewell.com//blog/2012/07/02/logo/"/>
     <updated>2012-07-02T16:41:00+10:00</updated>
-    <id>http://Nsewell.github.com/nsewell/blog/2012/07/02/logo</id>
+    <id>http://nsewell.com//blog/2012/07/02/logo</id>
     <content type="html"><![CDATA[<p>Logo is a classic lisp like turtle graphics language and was my introduction to programming. With Logo, you can teach some advanced concepts like fractal patterns, and there's some great online examples that demonstrate a few simple, elegant algorithms to generate pretty pictures.</p>
 
 <p>Papert is a really nice online Logo interpreter using JavaScript and Canvas, look at these examples:</p>
