@@ -4,7 +4,7 @@
   <title><![CDATA[Nick Sewell]]></title>
   <link href="http://nsewell.com//atom.xml" rel="self"/>
   <link href="http://nsewell.com//"/>
-  <updated>2013-06-05T03:04:36+10:00</updated>
+  <updated>2013-06-12T16:07:33+10:00</updated>
   <id>http://nsewell.com//</id>
   <author>
     <name><![CDATA[Nick Sewell]]></name>
@@ -12,6 +12,111 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Are You a Racist?]]></title>
+    <link href="http://nsewell.com//blog/2013/06/12/are-you-a-racist/"/>
+    <updated>2013-06-12T11:08:00+10:00</updated>
+    <id>http://nsewell.com//blog/2013/06/12/are-you-a-racist</id>
+    <content type="html"><![CDATA[<p>A team of Harvard psychologists recently completed a study showing a correlation between religious belief and performance on the well-known Cognitive Reflection Test The CRT goes like this; consider these simple maths quesions:</p>
+
+<blockquote><ol>
+<li>A bat and a ball cost $1.10 in total.  The bat costs $1.00 more than the ball.  How much does the ball cost?</li>
+<li>If it takes five machines five minutes to make five widgets, how long does it take 100 machines to make 100 widgets?</li>
+<li>In a lake, there is a patch of lily pads.  Every day, the patch doubles in size.  If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?</li>
+</ol>
+</blockquote>
+
+<p>You may have confidence in your answers. The answers are below these optical illusions, that show how you interpret the world may be mistaken:</p>
+
+<p><img src="http://nsewell.com//images/illusion-Zollner.png" alt="Zollner Illusion" /></p>
+
+<p>The <a href="https://en.wikipedia.org/wiki/Z%C3%B6llner_illusion">Zöllner illusion</a> demonstrates that while lines actually run in parallel, they look wonky when a pattern makes you believe that they aren&#8217;t straight.</p>
+
+<p><img src="http://nsewell.com//images/illusion-pisa789.jpg" alt="Double Leaning Tower of Pisa Illusion" /></p>
+
+<p>Both of these images are <a href="https://en.wikipedia.org/wiki/Leaning_tower_illusion">exactly the same</a>. Try covering one of them with your hand. When you see both images along side each other, your mind automatically assumes that the one on the right must come from a different angle.</p>
+
+<p><strong>Answers</strong>:</p>
+
+<ol>
+<li>You would expect the ball to cost $0.10 if the bat cost $1.00, but the bat costs $1.00 <em>more</em> than the ball, giving the correct answer of <strong>$0.05</strong></li>
+<li>While the intuitive answer is 100 minutes, it takes five machines five minutes to produce one widget each, so it takes 100 machines five minutes to produce one widget each (100 widgets).</li>
+<li>The intuitive answer is half the days (24), the correct answer is 47 (because the patch doubles each day).</li>
+</ol>
+
+
+<p>These aren&#8217;t difficult questions, but many people get the answers wrong when they don&#8217;t think the problem though methodically, relying on intuition instead of slow, methodical, rational thought. More religious people <a href="http://www.huffingtonpost.com/matthew-hutson/what-kind-of-thinker-beli_b_2759701.html">tend to get more of the answers wrong</a>, trusting their intuition more than less religious participants.</p>
+
+<p>David Hume said &#8220;reason is the slave of the passions&#8221; and modern neuroscience backs the claim up.
+Daniel Kahneman has noted differences in the way that people <a href="http://edge.org/conversation/the-marvels-and-flaws-of-intuitive-thinking">process information quickly and intuitively, compared to how they think slowly and methodically</a>.</p>
+
+<p>In 2008 Transport for London received international recognition on the Gruen Transfer for this ad about recognition of cyclists:</p>
+
+<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('Ahg6qcgoay4');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/Ahg6qcgoay4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('Ahg6qcgoay4-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
+<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/Ahg6qcgoay4/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=Ahg6qcgoay4" id="Ahg6qcgoay4" onclick="return false;">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/Ahg6qcgoay4/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=Ahg6qcgoay4" id="Ahg6qcgoay4-rep" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Test Your Awareness: Do The Test</div>
+</a>
+<div class="video-info" >How many passes does the team in white make? Test your awareness and Do the Test! TFL cycling safetly advert! Count the number of passes the White team makes. Do you see the Moonwalking bear?</div>
+</div>
+
+
+<p>Very often we can fail to spot things that we&#8217;re not looking out for. Today <em>Scientific American</em> published an article on selective attention, where people can fail to notice the things &#8221;<a href="http://www.scientificamerican.com/article.cfm?id=your-hidden-censor-what-your-mind-will-not-let-you-see&amp;page=1">your mind will not let you see</a>.&#8221; In one study white women were asked to concentrate on a ball-tossing video, then asked if they noticed a black man or a white man in the middle. One group primed on a task aimed at finding a &#8220;a suitable neighbor or co-worker&#8221; were equally likely to see both men. Another group primed on looking for a friend or date noticed the white man more than twice as often as the black man.</p>
+
+<p>Many societies that have multicultural workplaces don&#8217;t have as many mixed ethnicity marriages, meaning that many people may be more subconsiously accustomed to seeing people of other races in a distant setting but not as accustomed to them being friends or family. In several studies where participants <a href="http://www.pnas.org/content/108/13/E46.full">were given a shot of oxytocin</a>, the participants showed increased trust and co-operation with their in-group, while maintaining the same level of trust with their out-group. In <a href="http://www.pnas.org/content/108/4/1262.full">one study</a>, participants performed an <a href="https://en.wikipedia.org/wiki/Implicit_Association_Test">implicit association test</a>, where participants are timed in their categorisation of images of faces by grouping them with words that have positive or negative emotions. We often perceive visual information quickly, while rationally processing it takes longer. The Scientific American article mentions a similar study:</p>
+
+<blockquote><p>On some trials of their experiment, one eye saw a neutral picture like a lamp, and the other eye saw a bloody scene of violence. On other trials, one eye saw a neutral picture and the other saw an erotic nude picture. The subjects’ conscious experiences of the pictures flipped back and forth, but the scenes of sex and violence were more likely to be the first ones seen, and they occupied consciousness much longer than the boring neutral images. Several studies have now confirmed that dangerous things like snakes, angry men, and snarling dogs can break through our concentration and intrude on consciousness. Dirty words and naughty pictures have the same effects&#8230; If it gets your heart racing it will get your attention.</p></blockquote>
+
+<p>Make sure you don&#8217;t get distracted when considering the beautiful dolphins on this bottle:</p>
+
+<p><img src="http://nsewell.com//images/dolphinsex.jpg" alt="Dolphin Illusion" /></p>
+
+<p>In a hunter-gatherer context, humans would need to interrupt their slow thinking processes to quickly react to a predator that suddenly appears, leaving us with sex and violence being distracting and intensely engaging in ways that reflective modes of thought aren&#8217;t. Why else would there be so much sex and violence on HBO shows like <em>Game of Thrones</em>?</p>
+
+<p>The article goes on with this clincher:</p>
+
+<blockquote><p>There is something particularly disquieting about this brand of bias, because there is a power asymmetry. The unconscious screener shapes what the conscious “you” gets to see, but the conscious “you” doesn’t have veto power over that decision. Of course, you could try to shift your attention or change your goals once you are aware of them, but by then it may be too late. The unconscious always has a head start.</p></blockquote>
+
+<p>Jonathan Haidt likens fast and slow thinking to an <a href="http://www.smh.com.au/news/opinion/the-mind-has-an-elephant-of-its-own/2006/07/25/1153816179991.html?page=fullpage">emotional elephant with a rational rider</a>. The rider likes to think that he is in control, but really, the much larger elephant has most of the say in what direction the pair takes. In <a href="http://www.motherjones.com/files/emotional_dog_and_rational_tail.pdf">The Emotional Dog and its Rational Tail</a> Haidt states &#8220;moral reasoning is usually a post-hoc construction, generated after a judgment has been reached.&#8221; We assume that we are in control of our decisions, and yet psychology and behavioral economics shows that most of our rational decisions are a &#8220;slave&#8221; to the snap emotional judgements we make.</p>
+
+<p>Consider Eddie McGuire&#8217;s <a href="http://theconversation.com/racism-in-the-afl-eddie-mcguire-and-the-media-prove-theres-still-a-long-way-to-go-14838">likening of Adam Goodes to King Kong</a> after nearly a week of condemning racially villifying remarks about Aboriginal AFL players. This doesn&#8217;t just highlight Eddie McGuire&#8217;s stupidity but points to the wider problem of people allowing racial stereotypes to colour their sentiments of people, while denying to themselves and others that any bias exists. Even people sincerely opposed to racism can act in <a href="http://theconversation.com/are-you-racist-you-may-be-without-even-knowing-it-10826">ways that express biases without knowing it</a>:</p>
+
+<blockquote><p>Here’s an example of how this kind of thing can occur, from a <a href="http://socialjudgments.com/docs/Uhlmann%20and%20Cohen%202005.pdf">2005 American study</a>.
+In this study, participants were asked to choose the better applicant
+for the job of police chief. There were two candidates. One was “street
+wise” while the other had more formal education. One was male, one was
+female. Some experimental subjects were given the choice between a male
+street wise applicant and a female formally educated applicant, while
+some got the options reversed, with the female applicant being the
+street wise one.</p>
+
+<p>Here’s the interesting finding – both groups tended to pick the male
+applicant as the better qualified. They justified this choice by
+reference to the qualification the female lacked&#8230;</p>
+
+<p>It looked as though they were making a judgement based on what qualifications they thought were required for police chief. They weren’t really: they were making a judgement based on gender, and justifying it, based on a confabulated theory about what qualifications were required for police chief.</p></blockquote>
+
+<p>Similarly, when right of centre voters criticise Gillard in an excessively personal way (&#8220;Ju-liar&#8221;), a confabulatory process may mask mysoginistic attitudes as a justified criticism of her character and agenda. Worse, a tribal grouping of people who agree with each other&#8217;s politics encourages <a href="https://en.wikipedia.org/wiki/Cultural_cognition">cultural cognition</a>, with their own biases being confirmed by mostly talking with people who agree. Worse still is when they believe that their group is <a href="http://psychclassics.yorku.ca/Sherif/chap7.htm">pitted against other groups, rather than a part of a political system that has the whole country&#8217;s interests at heart</a>. This will mean going beyong the current 24 hour news cycle driven vituperative personality politics and trying to find bipartisan unity in policy based discourse.</p>
+
+<p>Many figures like Haidt <a href="http://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground.html">want the media to stop feeding into a cycle of partisanship on critical issues</a> like US spending on prison systems, which has liberals denouncing the incaceration rates of ethnic minorities, conservatives concerned at <a href="http://www.rightoncrime.com/the-conservative-case-for-reform/what-conservatives-are-saying/">prisons expenditure risking the bankruptcy of several US states</a> and both concerned at <a href="http://nsewell.com//blog/2013/01/03/rentier-theology/">bribery of the judiciary to raise sentences to increase demand for prison builders</a>.</p>
+
+<p>If smart people can become more aware of their own biases, then they may be more likely to see the things that their subconsious may otherwise ignore, like successful people from racial minorities (or moonwalking bears). Then racism and sexism won&#8217;t be as much of a concern.</p>
+
+<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('j2odOu0Oguo');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/j2odOu0Oguo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('j2odOu0Oguo-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
+<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/j2odOu0Oguo/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=j2odOu0Oguo" id="j2odOu0Oguo" onclick="return false;">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/j2odOu0Oguo/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=j2odOu0Oguo" id="j2odOu0Oguo-rep" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Community Clip - Troy & Jeff talk racism/football</div>
+</a>
+<div class="video-info" ></div>
+</div>
+
+
+<p>Online media has the potential to diversify the sources of information that people receive, as well as the potential to propagate <a href="https://www.youtube.com/watch?v=kP4A6SbRdzM&amp;t=4m37s">extreme crank theories</a>. My belief is that if enough people are able to have a committment to consider the evidence rather than interpret facts though their own filter, then the good will outweigh the bad and most people will benefit from a rational discussion on important issues.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fundie Ladies Fashion Advice]]></title>
@@ -88,7 +193,7 @@
 
 <p>Please sign and date this document to signify your agreement to the dress code.</p></blockquote>
 
-<p>The best part is many right wing Independant Fundamentalist Baptist churches support the <a href="http://rationalwiki.org/wiki/English-only_movement">English Only movement</a> and are opposed to immigration reform. Just have a look at some of the &#8221;<a href="http://www.nydailynews.com/news/national/teabonics-ridiculous-misspelled-tea-party-protest-signs-gallery-1.1918">Teabonics</a>&#8221; on <a href="http://politicalhumor.about.com/od/funnypictures/ig/Funny-Protest-Signs/">these protest signs</a>:</p>
+<p>The best part is many right wing Independent Fundamentalist Baptist churches support the <a href="http://rationalwiki.org/wiki/English-only_movement">English Only movement</a> and are opposed to immigration reform. Just have a look at some of the &#8221;<a href="http://www.nydailynews.com/news/national/teabonics-ridiculous-misspelled-tea-party-protest-signs-gallery-1.1918">Teabonics</a>&#8221; on <a href="http://politicalhumor.about.com/od/funnypictures/ig/Funny-Protest-Signs/">these protest signs</a>:</p>
 
 <p><img src="http://nsewell.com//images/protest-only-lanoguage.jpg" alt="protest-only-lanoguage.jpg" />
 <img src="http://nsewell.com//images/protest-crestwood.jpg" alt="protest-crestwood.jpg" /></p>
@@ -290,11 +395,9 @@ http://www.psychologytoday.com/blog/the-nature-nurture-nietzsche-blog/201005/did
 <p>Evolution via natural selection has been tested millions of times; errors have been found and corrected. The theory has changed, you may say due to this selective pressure it has evolved.
 References: http://www.nature.com/news/flaws-found-in-faster-than-light-neutrino-measurement-1.10099</p>
 
-<ol>
-<li>Why is a fundamentally religious idea, a dogmatic belief system that fails to explain the evidence, taught in science classes?
-Sorry but I think I have shown how it explains the evidence, Darwin’s original hypothesis is testable and falsifiable, if no change where found in species, if a rabbit was found in strata of the pre-Cambrian it would be false and we would have to go back to the drawing board. If no way to transmit changes down from mother to child where discovered then it would be false, remembering that genes where not discovered till well after Darwin’s death, he was vindicated there.</li>
-</ol>
+<h3>15. Why is a fundamentally religious idea, a dogmatic belief system that fails to explain the evidence, taught in science classes?</h3>
 
+<p>Sorry but I think I have shown how it explains the evidence, Darwin’s original hypothesis is testable and falsifiable, if no change where found in species, if a rabbit was found in strata of the pre-Cambrian it would be false and we would have to go back to the drawing board. If no way to transmit changes down from mother to child where discovered then it would be false, remembering that genes where not discovered till well after Darwin’s death, he was vindicated there.</p>
 
 <p>Besides it is science, science isn&#8217;t about the comfortable or reassuring it is about what is true, even though evolution may not be comforting or reassuring to your beliefs it has shown to be true so far. If a better hypothesis comes along that explains the facts better, is tried tested and wins in the battle between scientific ideas then it will be the latest answer. But all evidence points to that not being much off what evolution via natural selection currently is.</p>
 
@@ -1209,6 +1312,20 @@ Since 1996, contrary to poltical correctness, the Australian parliament has over
 <blockquote><p> &#8220;I’d always been against the death penalty but that contemplating the enormity of certain sort of crimes I sometimes thought that some crimes were so hideous that if the punishment were to fit maybe we were left with no alternative but the death penalty.”</p></blockquote>
 
 <p><a href="http://sixtyminutes.ninemsn.com.au/article.aspx?id=1020354"> From an interview on 60 minutes March 2010</a></p>
+
+<p>Paul Keating&#8217;s take, &#8220;If Abbott becomes Prime Minister, god help us&#8221;:</p>
+
+<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('4WQvtq6Hn6g');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/4WQvtq6Hn6g&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('4WQvtq6Hn6g-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
+<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/4WQvtq6Hn6g/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=4WQvtq6Hn6g" id="4WQvtq6Hn6g" onclick="return false;">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/4WQvtq6Hn6g/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=4WQvtq6Hn6g" id="4WQvtq6Hn6g-rep" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Paul Keating &#8220;If Tony Abbott becomes PM, God help us!&#8221; - March 2010</div>
+</a>
+<div class="video-info" >Paul Keating comments on Tony Abbott as a leader &#8230;.</div>
+</div>
+
+
+
 ]]></content>
   </entry>
   
@@ -1397,83 +1514,6 @@ Bryan Fischer explains that natural disasters are God&#8217;s way of getting our
  Job 42:9: So they went, Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite, and did just as the LORD had told them; and the LORD had respect for Job.</p></blockquote>
 
 <p>Geez, this socialist seems to be engaging in class warfare.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rentier Theology]]></title>
-    <link href="http://nsewell.com//blog/2013/01/03/rentier-theology/"/>
-    <updated>2013-01-03T19:10:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/01/03/rentier-theology</id>
-    <content type="html"><![CDATA[<p>It&#8217;s common to hear right wing editorials and chain letters advancing arguments to the effect that if society only did X (like they did in the &#8220;good old days&#8221;) then every social ill would be cured. This commonly plays on misconceptions based on alarmist media reports that <a href="http://www.gallup.com/poll/150464/Americans-Believe-Crime-Worsening.aspx">violence in Western societies is getting worse</a> while in reality violent crime <a href="http://edge.org/conversation/mc2011-history-violence-pinker">is at the lowest levels ever thoughout the West</a>.</p>
-
-<p>Many people think that <a href="http://www.abc.net.au/worldtoday/content/2012/s3511023.htm">crime in the Australia is worsening</a>, and that the majority of crime involves violence. Unfortunately, the media frequently presents <a href="http://www.lawlink.nsw.gov.au/Lawlink/bocsar/ll_bocsar.nsf/vwFiles/CJB153.pdf/$file/CJB153.pdf">misleading commentary on crime figures</a>, suggesting that small localised variations in crime rates are indicitive of a trend towards mayhem and chaos. This has lead to an evaporation of public confidence in the <a href="http://aic.gov.au/publications/current%20series/tandi/381-400/tandi387/view%20paper.html">ability for the criminal justice system to deal with crime fairly and adequately</a>. A study of Tasmanian jurors found that while 80% of the public believe that courts are too lenient in sentencing, <a href="http://www.abc.net.au/mediawatch/transcripts/1128_aic.pdf">90% of of jurors informed on information about crime cases thought that the judge in the case gave an adequate sentence</a>.</p>
-
-<p>Despite the reality that courts are generally in line with Australian expectations on crime sentencing, misinformed conservatives are pushing in various states for mandatory minimum sentences, based on the idea that politicians, pundits and focus groups know more about how to deal with crime than lawyers, academics and judges. These policies would <a href="http://newmatilda.com/2012/07/13/campbells-tick-and-flick-government">dramatically increase the prison population</a>, putting pressure on the public corrections system to build more prisons. Private prison companies would likely be commissioned to increase prisons capacity at lower cost. But as <a href="http://www.economist.com/blogs/democracyinamerica/2010/08/private_prisons">The Economist warns</a>, &#8220;The great hazard of contracting out incarceration &#8220;services&#8221; is that private firms may well turn out to be even more efficient and effective than unions in lobbying for policies that would increase prison populations.&#8221;</p>
-
-<p>This has indeed happend in America, not just with prisons lobbying government to maintain &#8220;demand&#8221; for their services, but directly <a href="http://www.nakedcapitalism.com/2011/06/matt-stoller-who-wants-keep-the-war-on-drugs-going-and-put-you-in-debtors-prison.html">bribing judges to increase the sentences for offenders</a>. The for profit prisons industry is concerned that &#8220;any changes with respect to drugs and controlled substances or illegal immigration could affect the number of persons arrested, convicted, and sentenced, thereby potentially reducing demand for correctional facilities to house them.&#8221; They also list good policing as a risk to their business: &#8220;reductions in crime rates or resources dedicated to prevent and enforce crime could lead to reductions in arrests, convictions and sentences requiring incarceration at correctional facilities.&#8221; As the saying goes, if you&#8217;re not part of the solution, prolong the problem for as long as possible.</p>
-
-<p>The next time you hear a conservative pundit decrying the &#8220;softness&#8221; of judges and insisting on &#8220;tough on crime&#8221; policies you should ask yourself: &#8220;is this supported by the evidence?&#8221; And if not, what&#8217;s behind this? Who benefits? Is it simply incompetence or is it malice? Is it just yellow journalism to sell tabloids or is there an economic incentive in perpetuating the misinformation that violent crime is on the rise, or that current drug policy is working?</p>
-
-<p>Often those pushing a conservative moral argument <a href="https://en.wikipedia.org/wiki/Bootleggers_and_Baptists">have no idea where their financial backing comes from</a>. Politics makes for strange bedfellows, with polticians often acting as a go-between with conservative moralisers and those with a financial agenda. During the prohibition era, Baptists were known to ally in their support of alcohol bans with bootleggers that profited from them. The preachers wanted to ban alcohol so that church wouldn&#8217;t compete with pubs on the &#8220;Lord&#8217;s day&#8221;. The bootleggers wanted their monopoly on the sale of alcohol. It leads to faulty theology like this, a billboard encouraging voters in a dry town not to legalise the sale of alcohol, saying that a vote for legal alcohol is a re-crucifixion of Jesus.
-<img src="../images/BaptistsAndBootleggers.jpg" title="Baptists and Bootleggers" alt="Baptists and Bootleggers" /></p>
-
-<p>A minor problem with this sign is that it&#8217;s not only hysterical, it&#8217;s completely unbiblical. The sign references Hebrews 10:29, which warns that church-goers who &#8220;deliberately keep on sinning&#8221; can be guilty of re-crucifying Jesus drink communion wine in an unworthy manner (&#8220;profaning the blood of the covenant&#8221;). To say that this prohibits the sale of alcohol for non-religious consumption is a misapplication of scripture. Most Christian denominations support the moderate consumption of alcohol (but condemn drunkenness). Jesus turned water into wine at a wedding party, and Ecclesiastes 9:7 instructs, “Drink your wine with a merry heart.” Psalm 104:14-15 states that God gives wine “that makes glad the heart of men.”</p>
-
-<p>Unfortunately many who want to push Christian morality into government policy end up pushing their own brand of legalism. And the Christian leaders most willing to publicise an unbiblical message are likely to be the ones lacking the moral scrupules or common sense to question where the money for their campaign comes from.</p>
-
-<p>Exactly the same tends to happen with the <a href="http://www.redletterchristians.org/abortion-politically-decisive-christians-election-sin/">emotionally charged abortion rights debate</a>:</p>
-
-<blockquote><p>Unfortunately, the abortion issue has allowed many Christians – and conservatives as a whole – to claim to be working to defend the most vulnerable when in fact they are turning attention and national resources away from those who are most desperately in need. The good that actually could be done to protect life isn’t done because pro-life Christians lend their support to politicians who are most likely to block funding for programs for children and families of the weakest and most impoverished. The abortion issue ends up serving as a smokescreen behind which certain politicians work in the interests of those who are the most rich and powerful.</p></blockquote>
-
-<p>Many have examined the positions they took in <a href="http://www.patheos.com/blogs/lovejoyfeminism/2012/10/how-i-lost-faith-in-the-pro-life-movement.html">the pro-life movement and found them be factually bankrupt on closer inspection</a>.</p>
-
-<p>When over 20 kindergarten students were killed in a mass shooting in Newtown, Conneticuit, many evangelical leaders expressed a belief that the <a href="http://www.huffingtonpost.com/2012/12/17/james-dobson-connecticut-shooting-gay-marriage_n_2318015.html">tragedy was a result of God&#8217;s will</a>. James Dobson, founder of Focus on the Family had this to say about the cause of the shooting:</p>
-
-<blockquote><p>We have turned our back on God. millions of people have decided that God doesn&#8217;t exist, or he&#8217;s irrelevant to me and we have killed 54 million babies and the institution of marriage is right on the verge of a complete redefinition. Believe me, that is going to have consequences, too&#8230;
-I think we have turned our back on the Scripture and on God Almighty and I think he has allowed judgment to fall upon us. I think that’s what is going on.</p></blockquote>
-
-<p>Bryan Fischer, host of a popular American Family Association radio show, said on Friday that God did not protect the Sandy Hook&#8217;s victims because prayer had been kicked out of public school in the &#8217;60s. Former GOP presidential candidate Mike Huckabee said Americans should not be surprised at the tragedy because &#8220;we have sytematically removed God from our schools.&#8221;</p>
-
-<p>Franklin Graham, the son of Billy Graham and the CEO of the Samaritan&#8217;s Purse charity said that Americans &#8220;shouldn&#8217;t be shocked&#8221; at the mass murder because of violent video games and that God has been &#8220;removed&#8221; from public schools.</p>
-
-<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('QLds439JSg4');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/QLds439JSg4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('QLds439JSg4-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
-<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/QLds439JSg4/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=QLds439JSg4" id="QLds439JSg4" onclick="return false;">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/QLds439JSg4/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=QLds439JSg4" id="QLds439JSg4-rep" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Franklin Graham on Sandy Hook: &#8220;This Is What Happens When A Society Turns Its Back On God&#8221;</div>
-</a>
-<div class="video-info" >http://www.rightwingwatch.org/content/franklin-graham-sandy-hook-what-happens-when-society-turns-its-back-god
-
-Franklin Graham blames the Sandy Hook massacre on television, music, video games, and the removal of God from public school.</div>
-</div>
-
-
-<p>Sam Morris, a Tennessee pastor believes the shootings are the result of schools teaching that &#8220;humanism&#8221; means that students are God and Lanza, the serial killer &#8220;can just go blow up anybody he wants&#8221;. He also said they teach <a href="http://www.rawstory.com/rs/2012/12/17/tennessee-pastor-mass-shootings-because-schools-teach-evolution-and-how-to-be-a-homo/">evolution and &#8220;how to be a homo&#8221;</a></p>
-
-<blockquote><p>when you kicked God out of schools, you’re going to be judged for that.</p>
-
-<p>When I got in high school, man, I started learning all this kingdom, phylum stuff, all this junk about evolution&#8230; evolution teaches — here’s the bottom line — that you’re an animal&#8230;</p>
-
-<p>So, here you are, you’re an animal and you’re a god! So, what are we going to teach you about in school? Well, we can teach you about sex, we can teach you how to rebel to you parents, we can teach you how to be a homo! But we’re definitely not going to teach you about the word of God! Amen.</p></blockquote>
-
-<p>Blaming school shootings on God, the devil or secularism has been going on for as long as school shootings in America. After the Columbine tragedy, the father of one of the deceased had the poor judgement to state &#8220;Columbine was not just a tragedy &#8211; it was a spiritual event&#8221; After hurricane Katrina struck, Billy Graham&#8217;s daughter remarked &#8220;we&#8217;ve been telling God to get out of our schools, to get out of our government and to get out of our lives. And being the gentleman He is, I believe He has calmly backed out.&#8221; In fact, you can be sure that Christians have been saying that &#8220;God is a gentleman&#8221; since the <a href="https://en.wikipedia.org/wiki/Tower_of_Siloam">tower of Siloam fell</a>.</p>
-
-<p>A number of Christians have commented on the <a href="http://www.redletterchristians.org/sandy-hook-and-the-tearing-asunder-of-evangelical-christianity/">right wing fundamentalists that now control evangelical Christianity and their theology</a>:</p>
-
-<blockquote><p>To blame a lack of reliance on God for this most recent tragedy is a slap in the face of the victims and their families who attended church before or after the shooting&#8230; If Christians want to place blame, blame the culture of violence—not the Prince of Peace</p>
-
-<p>We do not need the government forcing us to say officially-sanctioned prayers in school each day.  Do we think being forced to say a prayer is any prayer at all?  Do we think that in the not-so-distant days of Christendom, when all members of society were considered “Christian” and our nations were “Christian,” that faith was genuine? We have come so far and need to respect the rights of other religious traditions.  We argue for freedom for our missionaries to evangelize in Islamic countries but then we want to remake America in their same restrictive mold.  Sure, today, our faith is sometimes looked down upon, marginalized, and spat on—but the church is in a much better place now that we have regained the pre-Constantinian role of sojourners in a sinful world rather than the inquisitors of godless governments.</p></blockquote>
-
-<p>Many Christian leaders are also pointing out that ultimately the arguments about school prayer and God&#8217;s will are designed to <a href="http://www.redletterchristians.org/death-violence-and-america-is-god-the-answer-or-the-problem/">take attention away from the discourse about effective regulations to prevent future tragedies</a>.</p>
-
-<blockquote><p>When American Christians are more supportive of weapons, war and torture than their unbelieving neighbors, something has gone terribly wrong. When the greatest amount of violence is found precisely in the region of the country where church membership and attendance is the highest we might ask what kind of influence Christians are exerting. Complaints about a lack of official prayer in schools or an absence of religious symbols in the public square don’t get even close to identifying the source of the violence problem.</p></blockquote>
-
-<p>It&#8217;s common to see specious arguments claiming to know the mind of God being forwarded by hayseeders who don&#8217;t understand the interests co-opting their agenda. These stooges frustratingly lack the ability to ask simple questions like, &#8216;Is this biblical?&#8217; or &#8216;who benefits?&#8217;. Younger Christians that question the political rhetoric of the evangelical churches they find themselves in <a href="http://www.huffingtonpost.com/brian-d-mclaren/why-do-evangelicals-disli_b_517094.html">remain quiet about it, fearing ostracization</a>:</p>
-
-<blockquote><p>Many are afraid to admit that they voted for Barack Obama, or believe in evolution, or are concerned about global climate change, or are OK with their friends being gay or priests being married, or use birth control, or wish women could be treated as equals in their church, or don&#8217;t take every word of the Bible as having equal authority and historical accuracy. If they speak up, they will be shunned by their religious authorities &#8211; and zapped by their fellow Christians who have been told to press the punishment button when anyone dares to differ by giving the &#8220;wrong&#8221; answer. So they comply.</p></blockquote>
-
-<p>They comply until the evangelicals pushing an increasingly overt right wing political agenda give them more and more reasons to leave.</p>
 ]]></content>
   </entry>
   
