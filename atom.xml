@@ -4,7 +4,7 @@
   <title><![CDATA[Nick Sewell]]></title>
   <link href="http://nsewell.com//atom.xml" rel="self"/>
   <link href="http://nsewell.com//"/>
-  <updated>2013-09-20T17:23:33+10:00</updated>
+  <updated>2013-09-20T17:56:10+10:00</updated>
   <id>http://nsewell.com//</id>
   <author>
     <name><![CDATA[Nick Sewell]]></name>
@@ -12,41 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Politics Wrecks Your Brain]]></title>
-    <link href="http://nsewell.com//blog/2013/09/20/politics-wrecks-your-brain.markdown/"/>
-    <updated>2013-09-20T12:13:00+10:00</updated>
-    <id>http://nsewell.com//blog/2013/09/20/politics-wrecks-your-brain.markdown</id>
-    <content type="html"><![CDATA[<div class="figure"><a href="http://www.flickr.com/photos/michaelkeen/3892771349/"><img src="http://nsewell.com//images/confused-monkey.jpg" link="http://www.flickr.com/photos/michaelkeen/3892771349/" title="Confused Monkey" ><p>Confused Monkey</span></a></div>
-
-Philosophers and moral leaders have for millenia used parables and metaphors to present new ideas to students
-
-Everyone knows the old rule of avoiding bringing up religion and politics in polite company to keep dicsussions civil. It&#8217;s widely understood that political disagreements can become pointed and vituperative because people who are otherwise open to new ideas can become defensive when their political views are questioned. While most people believe that others will see things their way if they simply [had the right information](https://en.wikipedia.org/wiki/Information_deficit_model), the reality is that people presented with new information will typically interpret in light of what they already know. A new study from Yale shows just how bad the problem can be, with people [letting their political views get in the way of thinking clearly](http://www.motherjones.com/politics/2013/09/new-study-politics-makes-you-innumerate). 
-
-Dan Kahan presented students with a simple number problem, asking them to determine whether a certain intervention improves or worsens a problem. Respondents were presented with one version asking about skin rashes (a neutral problem) and another version asking them about gun control and crime (a deeply polarising ongoing political argument). The respondents were presented with the following table and asked whether the intervention worked:
-
-<img src="http://nsewell.com//images/Kahan1.png">
-
-Figuring out whether the cream works requires computing two ratios, and comparing whether the intervention worked better in the experimental group than the control group. In the experimental group, there is a 3:1 ratio of improvement to worsening, leading to the intuitive answer that the intervention works. But the correct answer is only found when that ratio is compared to the 5:1 improvement in the control group. As I&#8217;ve already written about, people can [make errors in basic maths problems by settling for the intuitive answer](/blog/2013/06/12/are-you-a-racist/), rather than double checking their work to find the correct one. 
-
-On average only 41% of respondents got the answer about skin care right, with more numerate respondents getting the answer right more of the time. Unfortunately, with the question on gun control, highly numerate Democrats and Republicans tended to get the answer right when the intuitive answer didn&#8217;t align with their political philosophy, but were unlikely to get the answer right when the intuitive answer agreed with their political philosophy. Kahan&#8217;s data suggests that people with high scientific literacy and numeracy are still likely to misinterpret scientific findings if they agree or disagree with their political biases. Earlier work found that people with a high level of scientific literacy, on average, are [more sceptical of climate change](http://www.nature.com/nclimate/journal/v2/n10/full/nclimate1547.html), with views more politically polarised the more knowledgeable the individuals are. When people are presented with information on the risks and opportunities of nanotechnology, those who oppose nuclear power usually oppose nanotechnology, and vice versa, as people interpret new information in line with their pre-existing beliefs. 
-
-David Hume described reason as the &#8220;slave of the passions&#8221;, and Jonathan Haidt describes human cognition as an emotional elephant with a rational rider. More often than not, the reasons we give for thinking one way or another are post-hoc rationalisations for intuitive emotional judgements. Haidt has suggested that many people see themselves in a tribe, with their own interests in [opposition to the other team&#8217;s](https://en.wikipedia.org/wiki/Realistic_conflict_theory). People who support certain causes can see their identity as part of a group that [believes in similar causes](https://en.wikipedia.org/wiki/Cultural_cognition).
-
-So while many people view the divisiveness of political discourse as the fault of the current media landscape, the reality is that these kinds of debates have been going on for all of history. In Emperor Justinius&#8217;s Byzantium in 532, political factions took sides on chariot racing in the Hippodrome. Two major factions existed, the Blues and Greens racing teams, with the Blues receiving support from the Emperor and his faction, and the Greens a more popular team. Consider the historian Procopius&#8217;s view on the [politics of Byzantium in 532](http://www.fordham.edu/halsall/source/procop-wars1.asp):
-
->In every city the population has been divided for a long time past into the Blue and the Green factions; but within comparatively recent times it has come about that, for the sake of these names and the seats which the rival factions occupy in watching the games, they spend their money and abandon their bodies to the most cruel tortures, and even do not think it unworthy to die a most shameful death. And they fight against their opponents knowing not for what end they imperil themselves, but knowing well that, even if they overcome their enemy the fight, the conclusion of the matter for them will be to be carried off straight away to the prison, and finally, after suffering extreme torture, to be destroyed. So there grows up in them against their fellow men a hostility which has no cause, and at no time does it cease or disappear, for it gives place neither to the ties of marriage nor of relationship nor of friendship, and the case is the same even though those who differ with respect to these colours be brothers or any other kin
-
-<img src="http://nsewell.com//images/Ben-Hur.jpg" title="Chariot Racing, from Ben Hur" >
-
-The horse races could kill and maim participants, and some of the supporters, in their colours would smuggle weapons into the stadium (that seated 150,000) to start fights with the supporters of the other team. These fights broke out not just because of the sport, but because the tribal identity of the sports teams lead their supporters to fight over political issues, and theological debates coming from the [Fourth Ecumenical council](https://en.wikipedia.org/wiki/Chalcedonian_Christianity). This culminated in a riot that Procopius estimated [killed up to 30,000](http://blogs.smithsonianmag.com/history/2012/03/blue-versus-green-rocking-the-byzantine-empire/)
-
-Eliazar Yudkowsky has reflected on just how meaningless and pointless these tribal conflicts can be. In a [thought experiment I love](http://lesswrong.com/lw/gt/a_fable_of_science_and_politics/), he presents a politicised version of Plato&#8217;s cave, inviting reflection on a future society living underground with no vision of the sky. They have only scraps of human history describing a &#8220;cerulian&#8221; sky, and factions of Blues and Greens have fought violently for years over the interpretation of the colour of the sky. After growing exhausted with the constant conflicts over the issue, an uneasy truce develops. People continue to be entrenched into the &#8220;Blue&#8221; or &#8220;Green&#8221; way of thinking about poltical and cultural issues like taxation, based on battle lines drawn from the original debate.
-
-I highly recommend reading Yudkowsky&#8217;s post in full to understand the power of the metaphor. Briefly, he presents different people reaching the surface and seeing the sky for the first time. For some Blues, the confirmation of a blue sky encourages them to want to break the truce and fight out the issue. For some Greens, the disconfirmation of everything they&#8217;ve lived for floors them, and 
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Politics Wrecks Your Brain]]></title>
@@ -1806,6 +1771,91 @@ Matthew Hagee says gay marriage will result in couples no longer producing futur
 <p>Behind the claim that gays want to destroy capitalism is the concern that changing social mores and cultural norms, as well as efforts to reduce economic inequality will <a href="http://www.edge.org/3rd_culture/paul07/paul07_index.html">destroy the Religious Right</a>.</p>
 
 <p><a href="http://nsewell.com//images/google-boomer.png">Baby boomers are evil</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[False Prophet Running for Office]]></title>
+    <link href="http://nsewell.com//blog/2013/02/12/danny-nalliah/"/>
+    <updated>2013-02-12T15:56:00+11:00</updated>
+    <id>http://nsewell.com//blog/2013/02/12/danny-nalliah</id>
+    <content type="html"><![CDATA[<p>Danny Nalliah, a false prophet running the apostate church &#8220;Catch the Fire Ministries&#8221; has launched his own political party, &#8220;rise up Australia&#8221;. Nalliah&#8217;s church has been <a href="http://www.theaustralian.com.au/news/costello-slams-cults-retribution-claims/story-e6frg6of-1111118814587">denounced as a cult by Peter Costello, someone his false prophesy lead him to &#8216;anoint&#8217; as Australia&#8217;s future Prime Minister</a>.</p>
+
+<blockquote><p>A FURIOUS Peter Costello has rounded on a Christian cult for suggesting the Victorian bushfires were divine retribution for the state&#8217;s abortion laws, describing it as &#8220;beyond the bounds of decency&#8221;.</p>
+
+<p>Just three weeks ago, the former federal treasurer sent a video message to a special Australia Day prayer meeting organised by Catch the Fire Ministries leader Danny Nalliah.</p>
+
+<p>But he reacted angrily to a statement by Mr Nalliah yesterday recalling a dream concerning the consequences of Victorian abortion legislation that became law last year.</p>
+
+<p>The preacher claimed God&#8217;s &#8220;conditional protection&#8221; had been &#8220;removed from the nation of Australia, particular Victoria, for approving the slaughter of innocent children in the womb&#8221;.</p>
+
+<p>&#8220;To link the death and the suffering of bushfire victims to other political events is appalling, heartless and wrong,&#8221; he said. &#8220;Those who have suffered deserve every support and sympathy. It is beyond the bounds of decency to try to make moral or political points out of such a tragedy.&#8221;</p></blockquote>
+
+<p>Nalliah&#8217;s full prophesy <a href="https://signposts02.wordpress.com/2009/02/14/nalliah-prophecy-claims-fall-short/">said this</a>:</p>
+
+<blockquote><p>“I saw a man firing randomly with a weapon at people on the streets and many were falling dead. I was very disturbed and was crying. Then the scene changed and I saw fire everywhere with flames burning very high and uncontrollably. With this I awoke from my dream with the interpretation as the following words came to me in a flash from the Spirit of God,  ‘My wrath is about to be released upon Australia, in particular Victoria, for approving the slaughter of the innocent children in the womb.  Now, call on My people to repent and pray!’”</p></blockquote>
+
+<p>This is false prophesy; there have been no major mass murders since 1996. If the Victorian bushfires really were God&#8217;s judgement for abortion legislation, then where is the gunman? In reality, <a href="http://nsewell.com//blog/2013/01/20/rick-perry/">Australian gun control works much better than school prayer</a>.</p>
+
+<p>Nalliah also incorrectly predicted that <a href="http://www.christian-witness.org/blog/2007/11/26/catch-the-fire%E2%80%93sequel/">Howard would win in the 2007 election before stepping aside for Costello to become Prime Minister</a>. He <a href="http://www.crikey.com.au/2007/08/14/costello-gods-own-prime-minister/">likens himself to the prophet Samuel anointing David</a> &#8220;The Lord spoke clearly to me about how Prophet Samuel in the Word of God was sent to anoint David as the future King of Israel&#8221;</p>
+
+<blockquote><p>I thank the Lord that I just had a one to one meeting with Peter Costello [and Howard]&#8230; The Lord had given me a clear prophetic Word for both of them and I thank Him I was able to deliver His Word in addition to praying with both of these Federal Government Leaders&#8230;</p>
+
+<p>I will boldly declare that Prime Minister John Howard will be re-elected in the November election (if the Body of Christ unites in prayer and action) and pass the leadership onto Peter Costello sometime after.</p></blockquote>
+
+<p>Nalliah waters down his prophesy by hedging his bets on whether Christians pray the right way, creating an &#8220;out&#8221; for his faulty prophesy. As Rev Dr Gordon Moyes notes, &#8220;True prophets never give a “conditional” word of prophecy.&#8221; Moyes goes on to note that</p>
+
+<blockquote><p>The majority of patients coming to the psychiatrists I have been responsible for employing in Wesley Mission’s Mental Health Hospitals claim God speaks to them. In other Christian circles and in Christian books, I note some people seek to get their own way by using God speaking to them as almost a way of stopping any questioning of their ideas.</p></blockquote>
+
+<p>The American televangelist Kenneth Copeland confirmed Nalliah’s prophetic anointing of John Howard as Prime Minister, declaring that <a href="http://jmm.aaa.net.au/articles/20588.htm">Howard was “God’s man in Australia”</a>.</p>
+
+<p>The Australian recounts the &#8220;preparation&#8221; (anointing as God&#8217;s elect) that happened with Costello:</p>
+
+<blockquote><p>Mr Nalliah met Mr Costello ahead of the 2007 election to &#8220;prepare&#8221; him for the prime ministership. A church member publicly recounted an episode where &#8220;the spirit of God suddenly moved me to cry out in the loud Aboriginal-like tongue followed by the shouting out several times of &#8216;the honourable Peter Costello, prime minister-elect of Australia&#8217;.&#8221;</p>
+
+<p>And just ahead of an Australia Day prayer meeting, Mr Nalliah announced: &#8220;Our silent prayer is that Peter &#8230; will be here to take the leadership of the party and lead the nation into victory as prime minister.&#8221;</p></blockquote>
+
+<p>Nalliah <a href="http://www.christian-witness.org/blog/2007/07/13/pentecostal-disgrace-catch-the-fire-honouring-the-late-frank-houston/">honoured the self-consessed child molester Frank Houston as the greatest influence on his ministry</a>:</p>
+
+<blockquote><p>The apostle Paul said that when he came to the church at Corinth it wasn’t with wise and persuasive words but it was with a demonstration of the Holy Spirit’s power&#8230; And that’s exactly how I knew Pastor Frank Houston. He was a man who moved in the power of the Holy Ghost. His heart was for real salvations, real healings, and real deliverances. I was fortunate enough to be a guest in his house on numerous occasions.. He was an inspiration not just to me but to many other spiritual sons and daughters throughout this nation.</p>
+
+<p>I love Papa Frank with all my heart. I wish I could give him a big hug.</p></blockquote>
+
+<p>Pastor Bob Cotton goes on to elaborate about his and Nalliah&#8217;s imitation of Houston&#8217;s techniques:</p>
+
+<blockquote><p>I would ring him up sometimes and I’d say, ‘Pastor Frank. This devil - I couldn’t shift it the other day. What do you reckon?’ And he’d start to tell me a few little insights and different things that he’d known in the past, and we’ve seen many people come into freedom&#8230; It’s my honour to stand here today and say Pastor Frank wasn’t just a father in the faith to me, he was one of my closest mates and I love him. I cherish his memory and, like Danny, I wish he were here so I could give him a great big hug tonight because there was nobody quite like [him]</p></blockquote>
+
+<p>Houston was expelled from his denomination for the destructive effect that his sexual abuse had on the church <a href="http://www.christian-witness.org/blog/2007/11/26/cetf-catch-the-fire-a-letter-to-the-editor/">and on victims</a>. By Nalliah&#8217;s own confession, he did not preach with logic and reason, but with signs and wonders. Given Houston&#8217;s history of sexually abusing multiple boys he was clearly not inspired or empowered by the Holy Spirit, and his signs and wonders were faked. Nalliah has learned to perform all of his spurious miracles from his spiritual father, refining the techniques and making even more aggrandised claims of raising three people from the dead.</p>
+
+<p>Now Nalliah is running for office, hoping for a resurgence of Tea Party hysteria to propel an anti-Islamic, climate change denialist agenda into parliament.  Nalliah previously tried to <a href="http://www.theage.com.au/federal-election/gillard-bid-to-win-back-christians-20100805-11krh.html#ixzz2KepvdQfT">smear the Prime Minister for her atheism</a>. This sounds like the hysteria of Tea Party style dominionist rhetoric, claiming that the country was started on Christian values, and the only way to hold up democracy is to have Christian leaders occupying every leadership position.</p>
+
+<blockquote><p>Danny Nalliah&#8230; released a statement giving five reasons not to vote Labor: it would be a vote for the Greens, Prime Minister Julia Gillard is in a de facto relationship, she is childless, she is an atheist, and she refused to take an oath on the Bible.</p></blockquote>
+
+<p>Nalliah&#8217;s politics <a href="http://www.adelaidenow.com.au/news/national/new-political-party-rise-up-australia-wants-muslim-intake-cuts/story-fndo1gb8-1226575716789">have attracted discussion</a>:</p>
+
+<blockquote><p>“Pastor Daniel”, of Catch the Fire Ministries, says a conversation with Jesus that went from 3.40am to 6am one morning prompted his move to Australia.</p>
+
+<p>Since arriving here he has claimed that Victoria’s abortion laws caused the Black Saturday bushfires and that his prayers have brought dead people back to life.</p>
+
+<p>He declared Prime Minister Julia Gillard a heathen “living in sin” and former Greens leader Bob Brown an “openly practising homosexual” and said that he felt sick to the stomach watching them shake hands.</p>
+
+<p>Rise Up Australia will push for cuts to Australia’s “Muslim intake”, for an end to multiculturalism and for protection of Australia’s Judaeo-Christian heritage&#8230;</p>
+
+<p>Climate change skeptic Christopher Monckton spoke at the launch, giving a very graphic description of abortions and leading a round of patriotic cheers.</p></blockquote>
+
+<p>Using abortion as a highly emotional topic as a <a href="http://localhost:4321/blog/2013/01/03/rentier-theology/">smokescreen for an agenda that is factually and morally bankrupt is a common tactic for extreme right wing politics</a>. Nalliah claims to be protecting Australia&#8217;s &#8220;Judeo Christian&#8221; heritage, a classic racist dog whistle. The RUA claim they want &#8220;To promote harmony, freedom and tolerance among Australians; specifically we oppose multiculturalism&#8221;. Great. Nalliah in 2004 called for Christians to <a href="http://www.abc.net.au/lateline/content/2004/s1217824.htm">&#8220;pull down Satan&#8217;s strongholds&#8221;, including brothels and gambling places, mosques and temples</a>.</p>
+
+<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('HjBF4Vt8ccE');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/HjBF4Vt8ccE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('HjBF4Vt8ccE-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
+<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/HjBF4Vt8ccE/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=HjBF4Vt8ccE" id="HjBF4Vt8ccE" onclick="return false;">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/HjBF4Vt8ccE/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=HjBF4Vt8ccE" id="HjBF4Vt8ccE-rep" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Australia&#8217;s newest political party courts controversial speaker</div>
+</a>
+<div class="video-info" >The Rise Up Australia Party has launched with the help of Christopher Monckton as it aims to take its head-turning policies to the federal election. See more from 7.30 at http://www.abc.net.au/7.30/</div>
+</div>
+
+
+<p>By claiming Christianity as the inspiration for their extremist politics, Nalliah and Monkton may pick up a small number of votes, but will continue the perception that Chrisitanity is strongly tied to a right wing agenda. If Christians themselves don&#8217;t speak out against this, it will give significant credance to those who want to wipe all religion from public life in Australia.</p>
 ]]></content>
   </entry>
   
