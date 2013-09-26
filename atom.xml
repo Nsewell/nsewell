@@ -4,7 +4,7 @@
   <title><![CDATA[Nick Sewell]]></title>
   <link href="http://nsewell.com//atom.xml" rel="self"/>
   <link href="http://nsewell.com//"/>
-  <updated>2013-09-22T19:01:00+10:00</updated>
+  <updated>2013-09-26T16:38:50+10:00</updated>
   <id>http://nsewell.com//</id>
   <author>
     <name><![CDATA[Nick Sewell]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why Popular Science and I Turn Off Comments]]></title>
+    <link href="http://nsewell.com//blog/2013/09/26/comments-suck/"/>
+    <updated>2013-09-26T03:18:00+10:00</updated>
+    <id>http://nsewell.com//blog/2013/09/26/comments-suck</id>
+    <content type="html"><![CDATA[<p>Popular Science recently announced that they are shutting down the comments for new articles, as they can skew the readers into <a href="http://www.popsci.com/science/article/2013-09/why-were-shutting-our-comments">distrusting the expertise of scientists</a>. Recent studies have found that incivility in the comment section can alter the perception of the credibility of the articles they accompany. In one study, readers of a fake blog post on nanotechnology were asked to evaluate it&#8217;s impact, with <a href="http://www.nytimes.com/2013/03/03/opinion/sunday/this-story-stinks.html?_r=0">one group exposed to vituperative comments</a>:</p>
+
+<blockquote><p> Uncivil comments not only polarized readers, but they often changed a participant&#8217;s interpretation of the news story itself.<br/>
+ In the civil group, those who initially did or did not support the technology — whom we identified with preliminary survey questions — continued to feel the same way after reading the comments. Those exposed to rude comments, however, ended up with a much more polarized understanding of the risks connected with the technology.<br/>
+ Simply including an ad hominem attack in a reader comment was enough to make study participants think the downside of the reported technology was greater than they&#8217;d previously thought.</p></blockquote>
+
+<p>In a world where more and more discussion of contemporary issues happens online, this does not bode well for the public understanding of the importance of science, alread <a href="http://www.nytimes.com/2013/08/22/opinion/welcome-to-the-age-of-denial.html">at all time lows</a>. As people search out information about health online, &#8220;Dr Google&#8221; can mislead patients and present <a href="http://www.abc.net.au/tv/bigideas/stories/2011/04/28/3202794.htm">debunked information wrongly suggesting that vaccines don&#8217;t work</a>. A decentralised media landscape should have the ability to route around authoritarian regimes that try to censor it, but what happens when it undermines the structures that support the public respect of useful institutions?</p>
+
+<p>Carl Sagan fundamentaly believed that the populace deserved to be educated about science, so that political or religious charlatans wouldn&#8217;t lure them into the next deception. Noting that either the people control the government or the government controls the people, he fiercely advocated that the science of evolution be taught in public schools so that the people could choose to understand science for themselves:</p>
+
+<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('U8HEwO-2L4w');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/U8HEwO-2L4w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('U8HEwO-2L4w-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
+<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/U8HEwO-2L4w/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=U8HEwO-2L4w" id="U8HEwO-2L4w" onclick="return false;">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/U8HEwO-2L4w/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=U8HEwO-2L4w" id="U8HEwO-2L4w-rep" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Carl Sagan&#8217;s last interview with Charlie Rose (Full Interview)</div>
+</a>
+<div class="video-info" >Last interview with Charlie Rose</div>
+</div>
+
+
+<p>Benkler, in his 2006 book <a href="https://en.wikipedia.org/wiki/The_Wealth_of_Networks">The Wealth of Networks</a> portended a networked society enriched by freely available peer-produced cultural works in a shared online commons like wikipedia. The utipian visions of such an information ecosystem, however, have to be reconciled with the reality that most people are unaware of their own cognitive biases, and are increasingly polarised on science and other issues in the management of polities. Without educating people on cognative biases and getting them to understand the world as it is, not as they want it to be, then potentially a decentrilised internet will simply fracture people into tribal teams who all see things the same way. Unfortunately, some content algorithms are set up to give users content <a href="http://www.thefilterbubble.com/ted-talk">similar to what they&#8217;ve already seen</a> potentially limiting their exposure to information that contradicts their beliefs. Similarly, asking a search engine to find information on &#8220;global warming <em>science</em>&#8221; or &#8220;global warming <em>conspiracy</em>&#8221; may find different sets of sites, without the questioner perceiving any bias in their own question, and assuming that the results they see are representitive of the information as a whole.</p>
+
+<p>In conclusion to all of this, the reason I don&#8217;t have comments is that like Popular Science, I don&#8217;t think they&#8217;re particularly helpful.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sexual Politics in Rome]]></title>
@@ -83,7 +114,7 @@
 
 <p>When people are presented with information on the risks and opportunities of nanotechnology, those who oppose nuclear power usually oppose nanotechnology, and vice versa, as people interpret new information in line with their pre-existing beliefs. Philosophers and moral leaders have for millennia used parables and metaphors to present new ideas to students, getting them to reason about thought experiments outside of their intuitions about their current situation.</p>
 
-<p>David Hume described reason as the &#8220;slave of the passions&#8221;, and Jonathan Haidt describes human cognition as an emotional elephant with a rational rider. More often than not, the reasons we give for thinking one way or another are post-hoc rationalisations for intuitive emotional judgements. Haidt has suggested that many people see themselves in a tribe, with their own interests in <a href="https://en.wikipedia.org/wiki/Realistic_conflict_theory">opposition to the other team&#8217;s</a>. People who support certain causes can see their identity as part of a group that <a href="https://en.wikipedia.org/wiki/Cultural_cognition">believes in similar causes</a>.</p>
+<p>David Hume described reason as the &#8220;slave of the passions&#8221;, and Jonathan Haidt describes human cognition as an emotional elephant with a rational rider. We think with emotions <a href="https://en.wikipedia.org/wiki/Dual_process_theory#Dual-process_accounts_of_reasoning">faster than we consciously reason with logic</a>. More often than not, the reasons we give for thinking one way or another are post-hoc rationalisations for intuitive emotional judgements. Haidt has suggested that many people see themselves in a tribe, with their own interests in <a href="https://en.wikipedia.org/wiki/Realistic_conflict_theory">opposition to the other team&#8217;s</a>. People who support certain causes can see their identity as part of a group that <a href="https://en.wikipedia.org/wiki/Cultural_cognition">believes in similar causes</a>.</p>
 
 <p>So while many people view the divisiveness of political discourse as the fault of the current media landscape, the reality is that these kinds of debates have been going on for all of history. In Emperor Justinius&#8217;s Byzantium in 532, political factions took sides on chariot racing in the Hippodrome. Two major factions existed, the Blues and Greens racing teams, with the Blues receiving support from the Emperor and his faction, and the Greens a more popular team. Consider the historian Procopius&#8217;s view on the <a href="http://www.fordham.edu/halsall/source/procop-wars1.asp">politics of Byzantium in 532</a>:</p>
 
@@ -388,6 +419,18 @@ Director: Leonard Bernstein</div>
 
 <p>Unfortunately many Christians debate back and forward whether the <a href="http://www.myobamayear.com/2013/04/the-good-samaritan/">good Samaritan was a Democrat or a Republican</a>, missing the futitlity of massaging a 2000 year old religious parable into modern political doctrine. And yet this is exactly what politicians do, with to one of the best known quotes of Jesus saying &#8220;the poor you will always have among you&#8221; being frequently <a href="www.smh.com.au/opinion/bible-bashing-the-homeless-abbott-style-20100215-o2tj.html">used to oppose social justice initiatives on financial grounds</a> despite the fact the writers of the gospels place Jesus saying it in the house of <a href="http://www.biblegateway.com/passage/?search=matt26.6-13;mark14.3-9&amp;version=NET">Simon the leper</a> or with <a href="http://www.biblegateway.com/passage/?search=jn12.1-8&amp;version=NET">Lazarus, who he raised from the dead</a>.</p>
 
+<p>As bart ehrman states</p>
+
+<blockquote><p>Most televangelists, popular Christian preacher icons, and heads of those corporations that we call megachurches share an unreflective modern view of Jesus – that he translates easily and almost automatically into a modern idiom. The fact is, however, that Jesus was not a person of the twenty-first century who spoke the language of contemporary Christian America (or England or Germany or anywhere else). Jesus was inescapably and ineluctably a Jew living in first-century Palestine. He was not like us, and if we make him like us we transform the historical Jesus into a creature that we have invented for ourselves and for our own purposes.</p>
+
+<p>Jesus would not recognize himself in the preaching of most of his followers today. He knew nothing of our world. He was not a capitalist. He did not believe in free enterprise. He did not support the acquisition of wealth or the good things of life. He did not believe in massive education. He had never heard of democracy. He had nothing to do with going to church on Sunday. He knew nothing of social security, food stamps, welfare, American exceptionalism, unemployment numbers, or immigration. He had no views on tax reform, health care (apart from wanting to heal leprosy), or the welfare state. So far as we know, he expressed no opinion on the ethical issues that plague us today: abortion and reproductive rights, gay marriage, euthanasia, or bombing Iraq. His world was not ours, his concerns were not ours and – most striking of all – his beliefs were not ours.</p>
+
+<p>Jesus was a first-century Jew, and when we try to make him into a twenty-first century American we distort everything he was and everything he stood for. Jesus himself was a complete supernaturalist. He believed in the Devil and demons and the forces of evil at work in this world. He knew little – possibly almost nothing – about the workings of the Roman Empire. But what little he knew, he considered evil. He may have considered all government evil unless it was a (future) theocracy to be run by God himself through his messiah. he certainly was no proponent of our political views, whatever our views happen to be….</p>
+
+<p>The problem then with Jesus is that he cannot be removed from his time and transplanted into our own without simply creating him anew. When we create him anew we longer have the Jesus of history but the Jesus of our own imagination, a monstrous invention created to serve our own purposes. But Jesus is not so easily moved and changed. He is powerfully resistant. He remains always in his own time. As Jesus fads come and go, as new Jesuses come to take the place of the old, the real, historical Jesus continues to exist, back there in the past, the apocalyptic prophet who expected that a cataclysmic break would occur within his own generation when God would destroy the forces of evil, bring in his kingdom, and install Jesus himself on the throne. This is the historical Jesus. And he obviously far too historical for modern tastes. That is why so many Christians today try to reform him.</p>
+
+<p>In my view, humanists, agnostics, atheists, mythicists, and anyone else who does not advocate belief in Jesus would be better served to stress that the Jesus of history is not the Jesus of modern Christianity than to insist – wrongly and counterproductively – that Jesus never existed. Jesus did exist. He simply was not the person that most believers today think he was.</p></blockquote>
+
 <h3>Action bible</h3>
 
 <p>Many bible publishers are trying to contextualise the biblical ideas into american culture. Thomas Nelson has created an <a href="http://www.thomasnelson.com/the-american-patriot-s-bible-1.html">American Patriot Bible</a> with references to American Independance thoughout the biblical text. Others seek to
@@ -521,6 +564,18 @@ Dagmar Herzog is a Professor of History at the Graduate Center, CUNY, where she 
 
 <p>Christian Delusion
 http://www.barnesandnoble.com/w/the-christian-delusion-john-w-loftus/1111758093?ean=9781616141684</p>
+
+<p>Bart Ehrman</p>
+
+<p>Most televangelists, popular Christian preacher icons, and heads of those corporations that we call megachurches share an unreflective modern view of Jesus – that he translates easily and almost automatically into a modern idiom. The fact is, however, that Jesus was not a person of the twenty-first century who spoke the language of contemporary Christian America (or England or Germany or anywhere else). Jesus was inescapably and ineluctably a Jew living in first-century Palestine. He was not like us, and if we make him like us we transform the historical Jesus into a creature that we have invented for ourselves and for our own purposes.</p>
+
+<p>Jesus would not recognize himself in the preaching of most of his followers today. He knew nothing of our world. He was not a capitalist. He did not believe in free enterprise. He did not support the acquisition of wealth or the good things of life. He did not believe in massive education. He had never heard of democracy. He had nothing to do with going to church on Sunday. He knew nothing of social security, food stamps, welfare, American exceptionalism, unemployment numbers, or immigration. He had no views on tax reform, health care (apart from wanting to heal leprosy), or the welfare state. So far as we know, he expressed no opinion on the ethical issues that plague us today: abortion and reproductive rights, gay marriage, euthanasia, or bombing Iraq. His world was not ours, his concerns were not ours and – most striking of all – his beliefs were not ours.</p>
+
+<p>Jesus was a first-century Jew, and when we try to make him into a twenty-first century American we distort everything he was and everything he stood for. Jesus himself was a complete supernaturalist. He believed in the Devil and demons and the forces of evil at work in this world. He knew little – possibly almost nothing – about the workings of the Roman Empire. But what little he knew, he considered evil. He may have considered all government evil unless it was a (future) theocracy to be run by God himself through his messiah. he certainly was no proponent of our political views, whatever our views happen to be….</p>
+
+<p>The problem then with Jesus is that he cannot be removed from his time and transplanted into our own without simply creating him anew. When we create him anew we longer have the Jesus of history but the Jesus of our own imagination, a monstrous invention created to serve our own purposes. But Jesus is not so easily moved and changed. He is powerfully resistant. He remains always in his own time. As Jesus fads come and go, as new Jesuses come to take the place of the old, the real, historical Jesus continues to exist, back there in the past, the apocalyptic prophet who expected that a cataclysmic break would occur within his own generation when God would destroy the forces of evil, bring in his kingdom, and install Jesus himself on the throne. This is the historical Jesus. And he obviously far too historical for modern tastes. That is why so many Christians today try to reform him.</p>
+
+<p>In my view, humanists, agnostics, atheists, mythicists, and anyone else who does not advocate belief in Jesus would be better served to stress that the Jesus of history is not the Jesus of modern Christianity than to insist – wrongly and counterproductively – that Jesus never existed. Jesus did exist. He simply was not the person that most believers today think he was.</p>
 ]]></content>
   </entry>
   
@@ -1756,73 +1811,6 @@ Our web site is http://www.jamesknox.com</div>
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Millenial Marriage Equality Surge]]></title>
-    <link href="http://nsewell.com//blog/2013/03/28/millenial-marriage-eq/"/>
-    <updated>2013-03-28T08:08:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/03/28/millenial-marriage-eq</id>
-    <content type="html"><![CDATA[<p><img src="http://nsewell.com//images/hrc-lesbian.jpg" alt="Red bars of the Human Rights Campaign with Lesbian Justice and Liberty" /></p>
-
-<p>This week the US supreme court is assessing the contitutional validity of state laws prohibiting same-sex marriage. There is the potential to overturn California&#8217;s Proposition 8, and possibly the Defence of Marriage Act. A large number of millenials have been following the SCOTUS, with many changing their profile pictures to an equality symbol. Data from Pew Research show that while other demographic groups have relativly unchanged levels of support for same-sex marriage, <a href="http://www.people-press.org/2013/03/20/growing-support-for-gay-marriage-changed-minds-and-changing-demographics/">17% of millenials have changed their minds over the last 3 years</a>:</p>
-
-<p><img src="http://nsewell.com//images/pew-gay-marriage.png" alt="Pew Gay Marriage" /></p>
-
-<p>A range of significant Democratic figures have given their support to the campaign, like Hillary Clinton recently joining Barack Obama and Joe Biden. Obama himself stated his views &#8216;evolved&#8217; from discussions with his daughters, subtley refuting the argument that gay marriage is a threat to children. A number of Republican figures like Dick Cheney, Laura Bush, and Colin Powell have already come out in support of gay marriage, and recently another 75 Republicans added their support, including <a href="http://nymag.com/daily/intelligencer/2013/02/republicans-urge-scotus-to-support-gay-marriage.html">former Utah Governor Jon Huntsman and former ebay CEO Meg Whitman</a>. Rob Portman, an original voter for DOMA, also changed his mind after <a href="http://www.usatoday.com/story/news/politics/2013/03/15/rob-portman-gay-marriage-son/1988375/">his son came out as gay</a>.</p>
-
-<p>Bill O&#8217;Reilly has also <a href="http://www.realclearpolitics.com/video/2013/03/27/oreilly_gay_marriage_backers_have_compelling_argument_against_bible_thumpers.html">changed his view, on March 26 of the O&#8217;Reilly Factor</a>:</p>
-
-<blockquote><p>MEGYN KELLY, FOX NEWS: I mean, I think the country&#8217;s views on [same-sex marriage] are changing, they&#8217;re changing dramatically.</p>
-
-<p>O&#8217;REILLY: But why are they changing?</p>
-
-<p>KELLY: Well, because I think the same-sex marriage advocates have done a credible job in getting out there and making their case&#8230; I had an interview with Tony Perkins of the Family Research Council. What is it about calling a marriage &#8211; calling a gay union a marriage that offends you. How does it hurt a traditional, or a heterosexual marriage? And I didn&#8217;t hear anything articulated that was particularly persuasive&#8230;</p>
-
-<p>O&#8217;REILLY: …I agree with you 100-percent. <strong>The compelling argument is on the side of homosexuals</strong>. That&#8217;s where the compelling argument is. &#8216;We&#8217;re Americans, we <strong>just want to be treated like everybody else</strong>.&#8217;</p>
-
-<p>That’s a compelling argument. And to deny that, you’ve got to have a very strong argument on the other side. And <strong>the other side hasn’t been able to do anything but thump the Bible</strong>.</p>
-
-<p>KELLY: Their best argument, thus far, has been, &#8216;well, marriage is an institution that for 2,000 has been about a man and a woman creating babies.&#8217;</p>
-
-<p>O&#8217;REILLY: That&#8217;s right.</p>
-
-<p>O&#8217;REILLY: &#8230;I live in New York, New York has [gay marriage], <strong>I&#8217;m fine with it. I want all Americans to be happy</strong>, I do.</p></blockquote>
-
-<p>With opposition to same-sex marriage seemingly in free-fall, extreme Religious Right figures are coming up with explanations for how this has happened. And rather than acknowledge that social media allows millenials to change their minds quickly, and that the demographics of the US are changing, they&#8217;d rather engage in <a href="http://www.rightwingwatch.org/content/wnd-our-tiny-tots-are-taught-homosexuality-weve-even-broken-them-thumb-sucking">kooky conspiracy theories about a hidden population control agenda</a>:</p>
-
-<blockquote><p>One has to wonder if the bigger motive behind the homosexual agenda isn’t to secretly achieve voluntary population control: Perhaps the ultimate goal is to save the planet from the inevitable destruction of man-made climate change. One could conclude that the sustainability efforts behind Agenda 21 would greatly benefit from same-sex partners who would no longer pollute the planet with the unwanted carbon footprints of tiny feet. Even those diesel-spewing school buses could become a welcomed relic of the past if enough people stopped procreating.</p></blockquote>
-
-<p>The idea that the gay rights movement is a covert conspiracy to destroy capitalism by reducing procreation has been picked up by Matt Hagee:</p>
-
-<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('Ss5YhmmMLZo');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/Ss5YhmmMLZo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('Ss5YhmmMLZo-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
-<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/Ss5YhmmMLZo/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=Ss5YhmmMLZo" id="Ss5YhmmMLZo" onclick="return false;">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/Ss5YhmmMLZo/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=Ss5YhmmMLZo" id="Ss5YhmmMLZo-rep" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Matthew Hagee: Gay Marriage &#8220;Is The Death Of Capitalism&#8221;</div>
-</a>
-<div class="video-info" >http://www.rightwingwatch.org/content/matthew-hagee-gay-marriage-will-be-death-capitalism
-
-Matthew Hagee says gay marriage will result in couples no longer producing future consumers, which will spell the end of capitalism and society.</div>
-</div>
-
-
-<p>Susan Harris continues her theorising, worried about the influence that social media has over millenials:</p>
-
-<blockquote><p>Chances are, if you’ve got a teenager on Facebook, they have been lured by curiosity to at least one of these sites. In addition to social media, well-known gay celebrities in comedy, news and music beat a steady drumbeat of tantalizing homosexual ideology for America’s youth…</p>
-
-<p>Generation Q lives and breathes an intense obsession of their sexuality that is disturbing to outsiders. Insiders include gays, lesbians, bisexuals, transgenders, pansexuals and basically everyone who does not adhere to the archaic idea of a man and woman being attracted to each other, marrying and having children. More importantly, it consists of allies who loudly champion the cause for family and friends already immersed in this destructive culture…</p>
-
-<p>We have reached the point where neither American laws nor accepted cultural norms will protect my rights as a Christian to protect my child from what my faith teaches is sinful and perverse behavior. Americans must not back down in the face of constant intimidation. The first step begins at home: naming the sin and teaching our children to love the sinner but hate the sin. <strong>The LGBT agenda is ensuring that our tiny tots are taught homosexuality before we’ve even broken them of thumb-sucking</strong>. By the time they are teenagers – feeling “different” like millions of teenagers before them – they are being sucked into the LGBTQ lifestyle because their parents and their communities put acceptance of man’s lusts above God’s law.</p>
-
-<p>Our youth are embarking on a lonely, dark path of sexual confusion and its resulting sadness, disease and suicide. There will be no going back. Generation Q may have already slipped through our fingers.</p></blockquote>
-
-<p>Clearly the only sane thing a God-fearing parent can do is to keep their tiny tots holed up in a basement for the first decade of life, away from the corrupting influence of the world.</p>
-
-<p>Behind the claim that gays want to destroy capitalism is the concern that changing social mores and cultural norms, as well as efforts to reduce economic inequality will <a href="http://www.edge.org/3rd_culture/paul07/paul07_index.html">destroy the Religious Right</a>.</p>
-
-<p><a href="http://nsewell.com//images/google-boomer.png">Baby boomers are evil</a></p>
 ]]></content>
   </entry>
   
