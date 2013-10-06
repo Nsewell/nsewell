@@ -4,7 +4,7 @@
   <title><![CDATA[Nick Sewell]]></title>
   <link href="http://nsewell.com//atom.xml" rel="self"/>
   <link href="http://nsewell.com//"/>
-  <updated>2013-09-26T16:38:50+10:00</updated>
+  <updated>2013-10-06T13:15:19+11:00</updated>
   <id>http://nsewell.com//</id>
   <author>
     <name><![CDATA[Nick Sewell]]></name>
@@ -12,6 +12,107 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Common Cognitive Mistakes and How to Prevent Them]]></title>
+    <link href="http://nsewell.com//blog/2013/10/06/cognitive-mistakes/"/>
+    <updated>2013-10-06T12:00:00+11:00</updated>
+    <id>http://nsewell.com//blog/2013/10/06/cognitive-mistakes</id>
+    <content type="html"><![CDATA[<p>Good post on the <a href="http://blog.bufferapp.com/thinking-mistakes-8-common-mistakes-in-how-we-think-and-how-to-avoid-them">Buffer blog on cognitive errors</a>. There&#8217;s good discussion of Dan Ariely&#8217;s work on anchoring and pricing, as well as this classic about the conjuction fallacy:</p>
+
+<blockquote><p>In 1983 Kahneman and Tversky tested how illogical human thinking is by describing the following imaginary person:</p>
+
+<blockquote><p>Linda is thirty-one years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in antinuclear demonstrations.</p></blockquote>
+
+<p>The researchers asked people to read this description, and then asked them to answer this question:</p>
+
+<p>Which alternative is more probable?</p>
+
+<ol>
+<li>Linda is a bank teller.</li>
+<li>Linda is a bank teller and is active in the feminist movement.
+Here’s where it can get a bit tricky to understand (at least, it did for me!)—If answer #2 is true, #1 is also true. This means that #2 cannot be the answer to the question of probability.</li>
+</ol>
+
+
+<p>Unfortunately, few of us realize this, because we’re so overcome by the more detailed description of #2. Plus, as the earlier quote pointed out, stereotypes are so deeply ingrained in our minds that subconsciously apply them to others.</p>
+
+<p>Roughly 85% of people chose option #2 as the answer. A simple choice of words can change everything.</p></blockquote>
+
+<p>Adding more detail or extra assumptions can make an event seem more plausible, even though the event necessarily becomes less probable. Kahneman and Tversky tried <a href="http://lesswrong.com/lw/ji/conjunction_fallacy/">another experiment on probabilities</a>:</p>
+
+<blockquote><p>Consider a regular six-sided die with four green faces and two red faces.  The die will be rolled 20 times and the sequences of greens (G) and reds (R) will be recorded.  You are asked to select one sequence, from a set of three, and you will win $25 if the sequence you chose appears on successive rolls of the die.  Please check the sequence of greens and reds on which you prefer to bet.</p>
+
+<ol>
+<li>RGRRR</li>
+<li>GRGRRR</li>
+<li>GRRRRR</li>
+</ol>
+</blockquote>
+
+<p>65% of respondents chose option 2 as the most likely bet, as it matches the colours of the 6 sides, even though the shorter sequence 1 requires less correct rolls to complete.</p>
+
+<p>Another example of the conjunction fallacy</p>
+
+<blockquote><ol>
+<li>&#8220;A complete suspension of diplomatic relations between the USA and the Soviet Union, sometime in 1983.&#8221;</li>
+<li>&#8220;A Russian invasion of Poland, and a complete suspension of diplomatic relations between the USA and the Soviet Union, sometime in 1983.&#8221;</li>
+</ol>
+</blockquote>
+
+<p>Most respondents rate 2 as more likely than 1, even though 2 would necessarily entail 1, and it would be possible to have a complete suspension of diplomatic relations between the USA and USSR without invasion of any country, let alone Poland specifically.</p>
+
+<p>If you have the time, consider how you&#8217;d approach a problem like the <a href="https://en.wikipedia.org/wiki/Monty_Hall_problem">Monty Hall problem</a> or this classic problem on breast cancer screening:</p>
+
+<blockquote><p>1% of women at age forty who participate in routine screening have breast cancer.  80% of women with breast cancer will get positive mammographies.  9.6% of women without breast cancer will also get positive mammographies.  A woman in this age group had a positive mammography in a routine screening.  What is the probability that she actually has breast cancer?</p></blockquote>
+
+<p>While most doctors give the intuitive answer of 80%, working though with Baysean logic gives the answer of 7.8%. Yudowsky has a <a href="http://yudkowsky.net/rational/bayes">long explanation</a> of the answer.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[depression-kevin-breel]]></title>
+    <link href="http://nsewell.com//blog/2013/10/06/depression-kevin-breel/"/>
+    <updated>2013-10-06T11:25:00+11:00</updated>
+    <id>http://nsewell.com//blog/2013/10/06/depression-kevin-breel</id>
+    <content type="html"><![CDATA[<p>Kevin Breel&#8217;s impassioned talk at TEDxKids on depression and the need for honesty has been going around on social media. Depression is a taboo topic, but it&#8217;s important for everyone like myself who don&#8217;t suffer from clinical depression that the stigmatising of mental health issues can be more of a challenge for sufferers than their disease.</p>
+
+<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('VYs05qPycYQ');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/VYs05qPycYQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('VYs05qPycYQ-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
+<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/VYs05qPycYQ/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=VYs05qPycYQ" id="VYs05qPycYQ" onclick="return false;">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/VYs05qPycYQ/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=VYs05qPycYQ" id="VYs05qPycYQ-rep" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">(FIXED AUDIO) Kevin Breel: Confessions of a Depressed Comic at TEDxKids@Ambleside</div>
+</a>
+<div class="video-info" >Kevin Breel is a 19 year old writer, comedian, and mental health activist. http://www.kevinbreel.com/
+
+As a rising young stand up comedian in Canada, Kevin is also extremely involved in mental health work; actively speaking at schools and organizations.
+
+His activist work has garnered international media attention and has impacted the lives of thousands of young people in North America.
+
+For more: http://www.kevinbreel.com/
+
+In this emotional talk, Kevin Breel speaks from the heart about his story with depression, how it&#8217;s impacted his life, and why he is ultimately grateful for it.
+
+ 
+*** PLEASE NOTE:  this talk was originally uploaded on June 17, 2013 with an audio problem that prevented the sound from being audible on certain devices and web browsers.  This version of the talk is a re-upload with re-compressed and re-formatted sound that is compatible with any and all browser or device.  We apologize for any inconvenience.  
+
+
+In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)</div>
+</div>
+
+
+<p>Imgur had a <a href="http://imgur.com/gallery/UqbD7">good series of comics communicating the same timely message</a>. Allie has brought <a href="http://hyperboleandahalf.blogspot.com.au/">Hyperbole and a Half</a> back from hiatus.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Katy Perry - By the Grace of God]]></title>
+    <link href="http://nsewell.com//blog/2013/10/02/perry-grace-of-god/"/>
+    <updated>2013-10-02T23:48:00+10:00</updated>
+    <id>http://nsewell.com//blog/2013/10/02/perry-grace-of-god</id>
+    <content type="html"><![CDATA[<p>Katy Perry</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why Popular Science and I Turn Off Comments]]></title>
@@ -248,7 +349,11 @@ Grant notes that Ephesians 6 &#8220;counter-culturally warns masters never to mi
     <link href="http://nsewell.com//blog/2013/08/27/miley-cyrus/"/>
     <updated>2013-08-27T21:19:00+10:00</updated>
     <id>http://nsewell.com//blog/2013/08/27/miley-cyrus</id>
-    <content type="html"><![CDATA[<p>When Destiny Hope Cyrus rose to fame after being cast in Disney&#8217;s Hannah Montanna, many were enamoured with the country singer&#8217;s daughter from the buckle of the bible belt. To add to her family friendly charm, she described her Christian faith as &#8221;<a href="http://www.parade.com/celebrity/2010/03/miley-cyrus.html">very important</a>&#8221; and wrote about keeping the faith in <em>The Climb</em>. Some even saw her as part of a new movement of conservative Christian public figures that would bring the US <a href="http://web.archive.org/web/20130703010527/http://conservapedia.com/Essay:The_Coming_Fifth_Great_Awakening_in_America">back to social conservatism in a new great awakening</a>:</p>
+    <content type="html"><![CDATA[<p>http://www.sineadoconnor.com/2013/10/open-letter-to-miley-cyrus/</p>
+
+<p>http://amandapalmer.net/blog/20131003/</p>
+
+<p>When Destiny Hope Cyrus rose to fame after being cast in Disney&#8217;s Hannah Montanna, many were enamoured with the country singer&#8217;s daughter from the buckle of the bible belt. To add to her family friendly charm, she described her Christian faith as &#8221;<a href="http://www.parade.com/celebrity/2010/03/miley-cyrus.html">very important</a>&#8221; and wrote about keeping the faith in <em>The Climb</em>. Some even saw her as part of a new movement of conservative Christian public figures that would bring the US <a href="http://web.archive.org/web/20130703010527/http://conservapedia.com/Essay:The_Coming_Fifth_Great_Awakening_in_America">back to social conservatism in a new great awakening</a>:</p>
 
 <p><img src="http://nsewell.com//images/cyrus-c.png" alt="Conservapedia praises Cyrus's Christianity" /></p>
 
@@ -1561,256 +1666,6 @@ Unfortunately fear campaigns like Meryl Dorey&#8217;s Australian Vaccination Net
 <p>NSW Health minister Tanya Plibersek has launched a booklet &#8220;Immunisation Myths And Realities&#8221; and advised parents &#8221;<a href="http://www.theaustralian.com.au/news/dr-google-cant-be-trusted-with-childs-health/story-e6frg6n6-1226650596663">Dr Google has been a negative influence</a>&#8221;. My opinion is that NSW Health and the AMA should be more proactive in online media, taking out ads on search results for searches like &#8216;vaccination&#8217; to make sure that correct information comes up before the AVN&#8217;s fearmongering, as while &#8220;Dr Google&#8221; may be prone to misinformation, the reality is that more and more parents will turn to it.</p>
 
 <p>In the past it was possible to tell parents &#8220;just trust your GP and do what they say&#8221;. It may be more helpful, in future, to ensure that GPs listen to their patients to maintain high levels of trust in the public health system in an era of consumer focussed medicine and online misinformation campaigns.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Why I'm an atheist]]></title>
-    <link href="http://nsewell.com//blog/2013/04/26/atheist/"/>
-    <updated>2013-04-26T23:19:00+10:00</updated>
-    <id>http://nsewell.com//blog/2013/04/26/atheist</id>
-    <content type="html"><![CDATA[<p>Earlier this month shocking news broke that <a href="http://www.abc.net.au/news/2013-05-07/women-missing-for-years-found-alive-in-house/4674150">three women who had been adbucted and imprisoned for nine to twelve whole years had escaped</a>. Michelle Knight was kidnapped in 2002 aged 20, Gina DeJesus was 14 when she was kidnapped. Some of the women had childen by their captor, and Michelle Knight reportedly was forced to deliver them in unsanitary conditions, without any training. The women were rescued when a neighbor, who happened to have the day off, heard one of their screams and kicked down part of the door.</p>
-
-<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('axCn04iXkBg');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/axCn04iXkBg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('axCn04iXkBg-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
-<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/axCn04iXkBg/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=axCn04iXkBg" id="axCn04iXkBg" onclick="return false;">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/axCn04iXkBg/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=axCn04iXkBg" id="axCn04iXkBg-rep" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Charles Ramsey interview, rescuer of Amanda Berry, Gina DeJesus and Michelle Knight in Cleveland</div>
-</a>
-<div class="video-info" >CLEVELAND - After going missing more than 10 years ago, Amanda Berry shouted to a man from a Seymour Avenue house on Monday.
-Charles Ramsey and Angel Cordero broke down the door and freed Berry, who was 16 when she disappeared in 2003. Cordero told NewsChannel5&#8217;s Stephanie Ramirez that he recognized Berry from posters and that she was with a 4 or 5-year-old child.
-
-Other victims Michelle Knight and Gina DeJesus.
-
-
-Read more: http://www.newsnet5.com/dpp/news/local_news/cleveland_metro/cleveland-man-who-found-missing-woman-amanda-berry-i-thought-that-girl-was-dead#ixzz2ScUmj9qm</div>
-</div>
-
-
-<p>The neighbor, Charles Ramsey, had lived next door for a full year and ate together with the captor, with no idea what was happening inside the home. While the media says that he&#8217;s a hero, he insists that anyone else would have done the same thing in the circumstances. What has haunted him, however, was the knowledge that he could have intervened much earlier had he known.</p>
-
-<p>One of the girls, Amanda Berry, had her face all over the news when she was kidnapped in 2003. Berry&#8217;s mother refused to give up hope of finding her daughter alive for 19 months, until she turned to a &#8220;psychic&#8221; who told her &#8221;<a href="http://www.cleveland.com/metro/index.ssf/2013/05/amanda_berry_is_dead_psychic_t.html">She’s not alive, honey</a>.&#8221; The poor woman died in 2006, never knowing that her daughter was alive.</p>
-
-<p>On learning of her niece&#8217;s freedom, Georgina DeJesus&#8217;s aunt proclaimed that the rescue was a miracle, and &#8221;<a href="http://www.thedailybeast.com/cheats/2013/05/08/cleveland-women-were-chained.html">God works in mysterious ways</a>&#8221;. One of the more disturbing revelations is that the rapist <a href="http://www.guardian.co.uk/world/2013/may/08/cleveland-ariel-castro-child-abduction">was a school bus driver investigated by police in 2004 for abduction and endangering children</a> after he kept a boy on his school bus for two hours. Police officers turned up to the abductor&#8217;s home months before he kidnapped DeJesus, but left after nobody answered their knocks on the door. This is much like the <a href="https://en.wikipedia.org/wiki/Kidnapping_of_Jaycee_Lee_Dugard#Missed_opportunities_to_rescue_Dugard">Jaycee Lee Dugard</a> case, where three years before the abducted girl was rescued, a neighbor informed the police there were tents in the abductor&#8217;s backyard with children living in them. Police talked with the abductor for 30 minutes on the property, but never searched it. After Dugard&#8217;s rescue, she was awarded a settlement of $20 million dollars from the Californian government for their mishandling of the case. Many people talk about the rescue of the girls being a miracle, and yet in both cases we see god failing to nudge the police in the right direction years before.</p>
-
-<p>Consider this scenario: if you found a neighbor begging and pleading to escape the house, whould you intervene by kicking down the door straight away? Or if you would wait to let the captor free the girls of his own accord, how long would you wait for? Now consider: if you were God, would you intervene straight away if you heard a captive&#8217;s pleas? Would you choose to violate the captor&#8217;s free will in order to protect the women? If you would intervene straight away, why didn&#8217;t God intervene for Michelle Knight for over 12 years?</p>
-
-<p>William Lane Craig defines God <a href="http://www.skepticink.com/reasonablyfaithless/2013/01/01/arguing-about-ontology/">in this way</a>: “God is, by definition, the greatest being conceivable.” Can you conceive of a God that doesn&#8217;t take 12 years to hear the cry of an abducted girl? Then it would seem that you can conceive of a greater being than the one Dr Craig believes in.</p>
-
-<p>To me, the God of the Old Testament seems like a capricious and vindictive sort of character. Can you imagine a god that doesn&#8217;t endorse <a href="http://www.biblegateway.com/passage/?search=deut21.10-14&amp;version=NET">sex slavery for widows</a> or the <a href="http://www.biblegateway.com/passage/?search=num31&amp;version=NET">enslavement of 32,000 virgins for the enjoyment of Israelite soldiers as part of their &#8220;booty&#8221;</a>? What about a god that doesn&#8217;t <a href="http://www.guardian.co.uk/commentisfree/2012/may/30/christian-fundamentalists-plan-teach-genocide">order the slaughter of Amalekite men, women and children</a> (often taught as a <a href="https://intrinsicdignity.wordpress.com/2010/04/19/good-news-club-on-the-slaughter-of-the-amalekites/">lesson in <em>complete</em> obedience</a>)? If you can imagine a deity without any of these bloodthirsty traits then by Dr Craig&#8217;s logic you&#8217;ve disproven the Old Testament god is the one true God.</p>
-
-<p>What if you don&#8217;t like Paul&#8217;s views on <a href="http://www.biblegateway.com/passage/?search=1pet2.18;tit2.9;eph6.5-8&amp;version=NET">slaves</a>, <a href="http://www.biblegateway.com/passage/?search=eph5.22-24&amp;version=NET">women</a> or <a href="http://www.biblegateway.com/passage/?search=1ti1.8-10;1cor6.9-10;rom1.18-32&amp;version=NET">gays</a>? Simple, just start your own faith tradition to worship your own interpretation of the Christian god. There are between <a href="https://en.wikipedia.org/wiki/Christian#Demographics">38,000</a> and <a href="https://en.wikipedia.org/wiki/List_of_Christian_denominations">41,000 Christian denominations</a> in the world, more than the <a href="http://www.wolframalpha.com/input/?i=number%20of%20sentences%20in%20the%20bible">33,829 sentences in the KJV</a>. Some of these denominations are the same movement in different countries, but the figures show Christians have a wide diversity of opinion not just on liturgy but on core beliefs like the inspiration of scripture, the divinity of Jesus, the existence of hell, the role (if any) of baptism and any methods of salvation.</p>
-
-<p>Protestants maintain that the only thing necessary for belief is scripture alone (<a href="https://en.wikipedia.org/wiki/Sola_scriptura">Sola Scriptura</a>).
-If Protestantism is true, and a key part of Protestant Christian experience is reading the bible, why
-did it take so long to invent a printing press? Why didn&#8217;t Yahweh pop one in at the first council of Nicea in 325 CE when they established biblical cannon?</p>
-
-<p>If Jesus was the incarnation of the Logos of a triune godhead, did he have omniscience to see the future? Could he see that <a href="http://www.errancywiki.com/index.php?title=Legends2">5 different endings to Mark would be added by five different scribes</a>? Why didn&#8217;t he give his disciples an approved, inerrant version of his teachings? If salvation from an eternal torment in conscious pain requires the accurate transmission of scripture, why didn&#8217;t God ensure that the scripture could be accurately copied and transmitted from the very start of the early Church? Couldn&#8217;t that have minimised the number of differences of opinion between denominations?</p>
-
-<p>Even in an age when most Chrisitans do have 4-7 bibles in their home, most don&#8217;t read them. In one study, 10% of Americans thought that <a href="http://www.washingtonmonthly.com/features/2007/0704.balmer.html">Noah&#8217;s wife was Joan of Arc, and two thirds thought Billy Graham preached the Sermon on the Mount</a>. Most people&#8217;s favourite &#8220;bible verse&#8221; was &#8220;God helps those who help themselves.&#8221; Less than half of Americans could name one of the gospels, and only a third could name all four. It&#8217;s this kind of ignorance that leads to one of the best known quotes of Jesus saying &#8220;the poor you will always have among you&#8221; being <a href="www.smh.com.au/opinion/bible-bashing-the-homeless-abbott-style-20100215-o2tj.html">used to oppose aid for the poor</a> despite the fact that Jesus said it in the house of <a href="http://www.biblegateway.com/passage/?search=matt26.6-13;mark14.3-9&amp;version=NET">Simon the leper</a> while eating with <a href="http://www.biblegateway.com/passage/?search=jn12.1-8&amp;version=NET">Lazarus, who he raised from the dead</a>.</p>
-
-<p>Ironically, in a time of rising illiteracy, we also see conservatives demanding belief in <a href="http://www.patheos.com/blogs/exploringourmatrix/2012/06/ken-ham-wants-other-christians-to-be-con-artists-like-he-is.html">young earth creationism</a> and the <a href="https://en.wikipedia.org/wiki/Southern_Baptist_Convention_conservative_resurgence">inerrancy</a> of scripture (not infallability), bordering on &#8221;<a href="http://www.patheos.com/blogs/peterenns/2012/03/guest-post-the-culture-of-biblical-inerrantism/">biblicalism</a>&#8221;.</p>
-
-<p>If Jesus had omniscience, could he fortell of the <a href="http://debunkingchristianity.blogspot.com.au/2012/11/god-science-and-black-death-plague.html">millions that would die in the Black Plague</a>? Could he fortell that it would take the scientific method centuries after the plague to understand how to stop the spread of disease? He decided to let people know that hell burns eternally at <a href="http://www.lhup.edu/~dsimanek/hell.htm">the boiling point of Sulfur, 444.6 degrees Celcius</a>, but did he tell people how long to boil water for to sterilise surgical tools?</p>
-
-<p>When Republican Senate candidate Richard Mourdock said pregnancy resulting from rape is something “<a href="https://www.youtube.com/watch?v=Wl9e-f6nbd4">God intended to happen</a>,” it lead many to ask the question; does that mean the rape is something God intended to happen? Medicine has established the germ theory of disease (still denied by Mary Bakker Eddy&#8217;s Christian Science cult) only from studying dead bodies. If it&#8217;s God&#8217;s will that modern medicine be able to treat sick people so that our Western life expectancies are many times what they were in the dark ages, did God preordain doctors to treat people? And if they needed cadavres to research, did God preordain that the knowledge would be gained from deaths?  If God has given us knowledge and the ability to use logic, why not give us the brains to innovate faster and prevent unnecessary deaths?</p>
-
-<p>Consider how bad medical knowledge was throughout the dark ages. Carl Sagan writes in The Demon Haunted World:</p>
-
-<blockquote><p>Pre-modern medical practice did not save many. Queen
-Anne was the last Stuart monarch of Great Britain. In the last seventeen
-years of the seventeenth century, she was pregnant eighteen times. Only five
-children were born alive. Only one of them survived infancy. He died before
-reaching adulthood, and before her coronation in 1702. There seems to be no
-evidence of some genetic disorder. She had the best medical care money
-could buy.</p></blockquote>
-
-<p>If God could have providentially sent scientists at any point in human history, why wait over a millennium to give humans the germ theory of disease? Why wait until after Queen Anne&#8217;s demise to give humans knowledge of Obstetrics and Gynecology?</p>
-
-<p>Personally, I don&#8217;t find myself able to believe that there is any God capable of influencing the world today. It seems more likely that humans have picked themselves up by their bootstraps, and while religion continues to <a href="http://www.youtube.com/watch?v=jPDlgq-znrY&amp;list=PL9zmXhEAnxT9hXW_2NJ7ZvdbiMuwSN5Ll&amp;index=6">perpetuate violence and hostility in the third world</a> the West is <a href="http://thegatesnotes.com/Books/Personal/The-Better-Angels-of-Our-Nature">experiencing a period of unprecedented peace and prosperity</a>. In fact, it seems that for most of human history people have been <a href="http://www.utilitarian.net/singer/by/199704--.htm">expanding their circle of empathy</a> from themselves to their families, their churches, their nations and to collections of nations. The future of humanity will be brighter if we can expand this circle to all humans and even other animals and the environment:</p>
-
-<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('l7AWnfFRc7g');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/l7AWnfFRc7g&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('l7AWnfFRc7g-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
-<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/l7AWnfFRc7g/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=l7AWnfFRc7g" id="l7AWnfFRc7g" onclick="return false;">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/l7AWnfFRc7g/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=l7AWnfFRc7g" id="l7AWnfFRc7g-rep" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">RSA Animate - The Empathic Civilisation</div>
-</a>
-<div class="video-info" >Bestselling author, political adviser and social and ethical prophet Jeremy Rifkin investigates the evolution of empathy and the profound ways that it has shaped our development and our society. Taken from a lecture given by Jeremy Rifkin as part of the RSA&#8217;s free public events programme. 
-Watch the full lecture here: http://www.thersa.org/events/video/archive/jeremy-rifkin-the-empathic-civilisation
-
-The RSA is a 258 year-old charity devoted to creating social progress and spreading world-changing ideas. For more information about our research, RSA Animates, free events programme and 27,000 strong fellowship.
-Find out more about the RSA at http://www.thersa.org 
-Join the RSA on Facebook at http://www.facebook.com/thersaorg
-&#8212;&#8212;
-Produced and edited by Abi Stephenson, RSA. Animation by Cognitive Media.</div>
-</div>
-
-
-<p>I believe that <a href="https://www.youtube.com/watch?v=tFDJJ1KydgE">promoting human flourishing and the minimisation of suffering rather than any ideology</a> will have the biggest positive impact on humankind. In fact, the pursuit of ideologies can often get in the way of human good. Consider the case of a 22-year-old Salvadoran woman with Lupus having to <a href="http://www.amnesty.org/en/news/el-salvador-must-provide-pregnant-woman-access-life-saving-medical-treatment-2013-04-17">seek approval to abort her brainless foetus from the Salvadoran Supreme Court</a>, after all abortions were banned in 1998. Despite the fact that the foetus will never be conscious, or able to feel pain, Catholic Bishops are campaigning not to let the woman terminate the pregnancy that threatens her life. In my opinion, this is the dangerous product of basing decisions on ideology, not facts.</p>
-
-<p>As a humanist, I believe that the promotion of human welfare should trump ideology, and this is enough to have a worthwhile purpose in life. Robert Green Ingersoll <a href="https://en.wikiquote.org/wiki/Robert_G._Ingersoll">stated it like this</a>:</p>
-
-<blockquote><p>Reason, observation and experience have taught us that happiness is the only good; that the time to be happy is now, the place to be happy is here and the way to be happy is to make others so. This is enough for us. In this belief we are content to live and die.</p></blockquote>
-
-<p>Already as I write this some people will be asking where they went wrong. Was it that they didn&#8217;t share enough <a href="http://www.ship-of-fools.com/gadgets/food_drink/015.html">testamints</a> or didn&#8217;t buy me the <a href="http://wp.patheos.com/blogs/unreasonablefaith/files/2009/07/armor-of-god-pjs.jpg">Full Armor of God Pyjamas</a> or was it that I acquired critical thinking skills and wrestled with these and other questions? Probably the pyjamas. Of course, Chrsitianity has taught me many <a href="http://christiannymphos.org/2009/07/09/cunnilingus-101/">useful things</a> and I still enjoy reading Song of Songs and Ecclesiastes. I am truly happy that while some sermons have verged on putting me to sleep, no preacher has ever <a href="http://www.youtube.com/watch?v=xVCQbVcnCwA">punched me in the face</a> or insisted that <a href="http://www.youtube.com/watch?v=CQSmtNbraGU">I save my kiss until marriage</a>.</p>
-
-<p>Some fundamentalist churches teach to love your neighbor, but hate Hindus, Buddhists, atheists, Muslims, gays, Jews, blacks and anyone suspected of being a feminist. This might make sense in a small street in a leafy suburb, but does it work if you live in an apartment? What happens when your digital neighbours are not just the 10 people you know on your street but the 600 people you know on social media? You&#8217;re going to hear the attitude and opinions of people with differing political, religious and ideological views. And really, when Jesus restated Leviticus 19:34 with the command to love your neighbor as yourself, he did not say love your male neighbor, or love your white neighbor, or love your straight neighbor, or love your beliving neighbor. Don&#8217;t do this:</p>
-
-<p><img src="http://nsewell.com//images/unicorn-shun.jpg" alt="Shuun the non-believer!" /></p>
-
-<p>I am happy to publicly state my opinion and I believe that everybody who wants to should be able to question every belief that I hold, attack every doctrine that I maintain and answer every question that I pose. But there&#8217;s a time and a place for this. Until then, why not just be friends?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Damage of the Purity Culture]]></title>
-    <link href="http://nsewell.com//blog/2013/04/02/damage-purity-culture/"/>
-    <updated>2013-04-02T11:26:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/04/02/damage-purity-culture</id>
-    <content type="html"><![CDATA[<p>The religious right has been using sex to sell a represive anti-sex agenda, creating the idea of soulgasms, where if Jesus is in the room, couples will have the most amazing orgasms ever, so long as they are married.</p>
-
-<blockquote><p>&#8220;We must fight [lust] with the massive promise of superior happiness. We must swallow up the little flicker of lust’s pleasure in the conflagration of holy satisfaction.” John Piper</p></blockquote>
-
-<p>Many Christians today don&#8217;t present Jesus as a redeemer for all people and all cultures that saves individuals into a community that will have a transformative influence on their life. Instead they present a moralising gospel of American Jesus as the functional saviour that will give someone friends, social status in the Christian subculture, and perfect sex in a perfect marriage so long as they look and sound Christian enough. Rather than empowering countercultural belief in liberation theology of Jesus&#8217;s teachings, it imposes a literalistic rule based adherance to a culture of shame, fear and intimidation of Christendom. It&#8217;s against this context that mission strategies are devised to present Christianity as the solution to singleness, rejection and loneliness.</p>
-
-<p>This has many damaging effects on young people inculcated into the culture. It tells young adults that virginity matters more than chastity, and even if they spend 60 hours a week volunteering for charity, they have no standing in the church if they have ever had sex. It forces young women into the position of having no sexual agency, no ability to consent to sex, but all of the responsibility for &#8220;causing&#8221; lust in men.</p>
-
-<p>Barna has polled the reasons why young adults leave the church (and many leave the faith altogether). Their <a href="http://www.barna.org/teens-next-gen-articles/528-six-reasons-young-christians-leave-church">results show six key categories for why people leave</a>, facts that <a href="http://www.huffingtonpost.com/karl-giberson-phd/creationists-and-young-christians_b_1096839.html">cause consternation for some</a>:</p>
-
-<ol>
-<li>Churches seem overprotective.</li>
-<li>Teens and 20-somethings&#8217; experience of Christianity is shallow.</li>
-<li>Churches come across as antagonistic to science.</li>
-<li><strong>Young Christians&#8217; church experiences related to sexuality are often simplistic, judgmental.</strong></li>
-<li>They wrestle with the exclusive nature of Christianity.</li>
-<li>The church feels unfriendly to those who doubt.</li>
-</ol>
-
-
-<p>Presenting sex inside marriage as always perfect, always effortless and always satisfying as it is in accordance with &#8220;God&#8217;s design&#8221; sets young couples up for a steep learning curve. Those who can&#8217;t wait, like <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1802108/">95% of Americans</a> or <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3156853/">70% of conservative Texan Southern Baptist couples</a> will feel secret shame that they may not even be able to bring before a pastor if they have overstated the significance of sex in relation to other sin. The flipside of this involves pushing abstinence-before-marriage sex education, that misrepresents the risks of unprotected sex in order to suggest that marrital sex is the only &#8220;safe&#8221; form. Studies have found that factual distortions of abstinence-until-marriage campaigns around the benefits of condom use lead teenagers who sign abstinence pledges <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2768056/">to be just as sexual, but less likely to use condoms</a>.</p>
-
-<p>There&#8217;s a stranger niche of homeschooled daughters going to purity balls, to leart to save their first kiss until their wedding day. These girls learn all kinds of <a href="https://www.youtube.com/watch?v=CQSmtNbraGU">creepy ideas about how they need to date their fathers in order to marry the perfect man</a>. Having taken the simplistic black and white answers around sex, they are now pushing out a legalistic agenda to beyond what the bible even remotely supports.</p>
-
-<p>There&#8217;s starting to be pushback.</p>
-
-<h3>DRISCOLL</h3>
-
-<p>On December 21, 1999 George Barna&#8217;s Christian polling firm announced the results of their study on religion and divorce. The uncomfortable reality was that &#8220;born again&#8221; Christians were <a href="http://web.archive.org/web/20020616112707/www.barna.org/cgi-bin/PagePressRelease.asp?PressReleaseID=39&amp;Reference=B">significantly more likely to get divorced than atheists and agnostics to get divorced</a> (27% versus 21%). This strongly challenged the naive assumption that &#8220;couples that pray together stay together&#8221; that had been previously unquestioned in White evangelical churches. Significant time and money was spent investing in couples&#8217;s counseling and therapy, and new ranges of &#8220;sexual fulfilment&#8221; <a href="https://www.youtube.com/watch?v=CYVicYHNrAA">seminars, books and courses</a>. Pastors started running &#8220;Bed-in&#8221; competitions, getting married couples to <a href="http://abcnews.go.com/US/sermons-sex-pastors-preach-pro-sex-god-christian/story?id=15433285#.UaD4v0FR8t8">publicly admit that they enjoy having sex</a>. &#8220;Marriage strengthening&#8221; and couple counselling became a focus of many churches, so much so that some pastors started titillating their engaged couples and singles with racy sermons from Song of Songs. Entrepreneurs set up stores with &#8221;<a href="http://www.npr.org/templates/story/story.php?storyId=18975616">Christian sex toys</a>&#8221; after the market exploded when normal women suddenly found approval for &#8220;marital aids&#8221;.</p>
-
-<p>Mark Driscoll made his career out of packing young people into his churches to hear his sexed up sermons. It&#8217;s a fast way to get <a href="http://nytimes.com/2009/01/11/magazine/11punk-t.html?pagewanted=2">youtube fame after being kicked off God.tv</a> as young people all over the world seek a style of religion that is less suffocating and more understanding of issues being faced by Millenial couples. This started to go off the rails, however, when Driscoll resorted to <a href="https://freedom4captives.wordpress.com/2009/06/21/35-driscoll-your-husbands-appreciate-oral-sex-so-serve-them-well/">proof-texting individual verses of Song of Songs to command women to perform specific sex acts they did not want to</a>. Despite the fact that Proverbs states that the way of a young man with a maid is <a href="http://bibleapps.com/proverbs/30-19.htm">too wonderful to know of</a>, metaphoric portions of a Hebrew love song written more than 2,000 years ago were being forced into a very modern, over-sexed American culture. Demanding a pastor (who&#8217;s not qualified as a sex therapist) to give couples a literal yes and no answer to every sexual question they may have is never a good idea, and often it means imposing the pastor&#8217;s limited, sexist understanding onto other couples.</p>
-
-<p>Driscoll is facing an increasing amount of pushback as people see his personally sexist views pervading his biblical interpretation. Driscoll&#8217;s wife grace interpreted the biblical queen Vashti as being killed for <a href="http://rachelheldevans.com/blog/esther-and-vashti">not being submissive to her husband&#8217;s commands that she prance around naked in front of his drunk guests</a>. More and more people are recognising that Driscoll&#8217;s ideas about marriage are more of a <a href="http://www.patheos.com/blogs/friendlyatheist/2011/12/24/grace-and-mark-driscoll-write-a-how-not-to-book-on-marriage/">how not to guide</a>.</p>
-
-<h3>Damage</h3>
-
-<p>Pushing damage onto women
-http://experimentaltheology.blogspot.com.au/2012/04/whores-meditation-on-gender-and-bible.html</p>
-
-<p>Ezekiel 23</p>
-
-<p>Ignorance of the size and extent of the purity culture leaves people unable to understand its real effects. Shaming female sexuality can cause <a href="http://www.patheos.com/blogs/lovejoyfeminism/2011/11/the-purity-culture-and-sexual-dysfunction.html">serious sexual dysfunction well into marriage</a>:</p>
-
-<blockquote><p>After a few months, I did start having sexual fantasies. But they were all fantasies of non-consensual sex. Why? Because on some intuitive level that made them safer, less taboo, and less sinful. After all, in these fantasies, I didn’t have a choice. I didn’t have sexual agency. I wasn’t choosing to have sex. I wasn’t active. It wasn’t that I wanted to fantasize about non-consensual sex; rather, as a result of the purity culture and my suppression of my sexuality, this was the only kind of sex I could fantasize about.</p>
-
-<p>When my husband and I began having sex, we found that the only way I could orgasm was to pretend our sex was non-consensual. It was as though imagining and miming being coerced was the only way I could truly let go, detach from myself, and give myself permission to feel sexual pleasure. Being an active sexual agent, even in my thoughts, had been a no-no for so long that this suppression had become hard-wired into my brain. It literally took us years to figure out a way for me to have orgasms without pretending that our sex was non-consensual. I have nothing against people who simply enjoy this sort of sex play or this sort of fantasies, and I’m not saying it’s bad. It’s just that I really wanted to be able to experience orgasm without having to pretend sex was non-consensual.</p>
-
-<p>It’s been some years now, and things have gotten better. I can have orgasms without pretending our sex is non-consensual, and I now have sexual fantasies in which I am an active sexual agent. There are some things I’m still working on, because these sorts of thought patterns don’t go away overnight, but I’m confident that I’m on the right path and have a bright sexual future.</p>
-
-<p>How did this happen to me? It’s simple, really. I spent the first twenty years of my life suppressing every sexual urge, thought, or desire. I literally became essentially asexual. Literally. My sexuality was dead, because I had killed it. I had sacrificed it on the alter of the purity culture in a desire to make myself pure and godly. And yet, I’d always been taught that once I was married I would experience carefree, romping, ecstatic, incredible sex the likes of which I could not imagine. There is a disconnect here. How is one supposed to go from being sexually suppressed and extinguished to being an active and fulfilled sexual being?</p>
-
-<p>I was taught growing up that every sexual thought or desire outside of marriage is sin. Believing this, I spent twenty years working hard to keep from thinking about sex, and I succeeded. I was essentially asexual. And then, with my husband, I was suddenly supposed to think about sex. My mind rebelled. My indoctrination of my own brain had been all too successful. My sexual dysfunction was only natural.</p></blockquote>
-
-<h3>Singleness and loneliness</h3>
-
-<p>http://www.critiquebycreating.com/2011/04/the-most-eligible-christian-bachelor/</p>
-
-<h3>Pushback</h3>
-
-<p>God and boobs Angie Schuller Wyatt</p>
-
-<p>http://www.huffingtonpost.com/angie-schuller-wyatt/how-i-broke-free-from-religion-and-embraced-my-sexuality_b_2839257.html
-http://www.patheos.com/blogs/friendlyatheist/2013/03/11/an-exclusive-excerpt-from-god-and-boobs/
-http://www.patheos.com/blogs/friendlyatheist/2013/03/21/the-author-of-god-and-boobs-responds-to-your-questions
-http://www.cnbc.com/id/100522472</p>
-
-<blockquote><p>… Schuller Wyatt was scheduled to appear on the Hour of Power broadcast where her brother Robert “Bobby” Schuller III preaches. But when word got out that Schuller Wyatt had written God and Boobs, she was unceremoniously dumped via email from a church executive who gave no explanation.</p>
-
-<p>“I’m tired of religious bullies dictating to women how we should live our lives. In my work as a pastor, I counseled too many women who felt ashamed of their sexuality and were silenced into submission. I am trying to empower them to feel good about themselves.“</p>
-
-<p>Spiritual leaders have been guilty of teaching women to hide their figures in dumpy clothes, to avoid thinking about sex and to ignore their sexual desires. Whether Protestant or Catholic, most religious rules about sex result in women feeling their sexuality is shameful. Women in my religious circle won’t typically admit to their friends or pastors that they’ve felt this way, but they will tell their counselors. In the privacy of a safe setting, they talk of things like having to endure looks from their pastor that made them feel dirty. Making matters worse is the rampant hypocrisy in religion. The same leaders who set strict boundaries on sexuality are often exposed for exploiting sex in their private lives. When their sins come to light, they’re revealed as consumers of pornography, prostitution and illegal sex-enhancing drugs. Certainly, not all spiritual leaders are guilty of this kind of hypocrisy, but it is prevalent enough to cast a shadow on the world’s prominent religions.
-The devout Christian women I know tend to heed their leaders’ advice. Every piece of clothing is viewed through the lens of lust. Will this shirt show too much cleavage? Is my hemline too short? Am I going to cause a man to sin? They end up thinking about their cleavage as much as the men around them do.
-I once heard a pastor chide women in his church for wearing tops that were cut too low. If the congregation wasn’t thinking about breasts walking into the building, they were certainly thinking about them as they walked out. I heard nothing else the pastor said that day. I kept thinking to myself: How low it too low? Who is the appointed Cleavage Monitor? Who draws the line between sinner and saint?
-Years ago, my brother told me that if a man is going to lust, he’s going to lust. You could put a girl in a potato sack and he’d still become aroused. It’s our own conscience that must resolve the questions of sexual expression and attire.</p>
-
-<p>Enhanced by breasts, hips and figures that curve, a woman’s body is shaped by God. It’s a beautiful piece of art, meant to be alluring and sensual in all the right places. But religious women feel insecure about their curves to the point of layering on their clothes until they’ve covered every inch of their femininity.</p>
-
-<p>This point was driven home by a friend, who told me about a film crew from a local news organization that was reporting on a major Christian women’s conference in her city. She knew about the situation because she worked at the conference behind the scenes. The crew was trying to wrap the shoot, but they couldn’t seem to get the footage they wanted. The hold-up? They needed an interview and couldn’t find a single woman, she was told, who looked like a cute, normal girl and not “a bag lady.”</p>
-
-<p>Are women meant to live this way? Is this what God requires of us? Does God want us to feel shame about our sexuality? Women deserve a shame-free existence. They should explore, adore and adorn their shapes. There’s nothing shameful about a womanly figure that evokes sexual feelings, because women, like men, were designed to have sex. It’s natural. There are ways to embrace our figures, without putting them on display, to celebrate them and keep them sacred.</p></blockquote>
-
-<p>http://wineandmarble.com/purity-guilt/
-http://wineandmarble.com/ir-modesty-and-lust/</p>
-
-<p>Still others like Dianne Anderson are speaking out on the damaging nature of denying women sexual agency
-http://diannaeanderson.net/?p=1288
-When Chrisitans discuss sex,</p>
-
-<blockquote><p>Consent doesn’t enter into the picture, because if enthusiastic, positive consent is discussed, it might end up teaching people that healthy sexual relationships can and do happen outside of a marriage relationship. And then all hell breaks loose!</p></blockquote>
-
-<p>http://rachelheldevans.com/blog/christians-idolize-virginity</p>
-
-<p>http://www.patheos.com/blogs/lovejoyfeminism/2013/02/christian-bloggers-pushing-back-on-virginity.html</p>
-
-<p>Dan Fincke of Cammels with Hammers points out that many <a href="http://www.patheos.com/blogs/camelswithhammers/2011/02/sex-and-apostasy/">parents who themselves lived a life of moderate libertinism are happy to have their children inculcated into a doctrine of asceticism they could never follow</a>:</p>
-
-<blockquote><p>When it is actually beneficial in practice for people to reject fundamentalist Christian restrictiveness about sex, they leave the church.  When they are married and raising children, suddenly they endorse a system of values that conveniently allows that only married people can have sex and that their teenage and young adult children cannot.</p>
-
-<p>Religious people of this sort are some of the worst and most blithe and uncondemned species of hypocrites out there.  They condemn the same healthy process of normal sexual development they personally benefited from while considering themselves especially devout and moral people for “repenting” of their ways when all they did was get married and find the church suddenly extremely convenient to their sexual goals of monogamy and their desire that their teenage and young adult children remain chaste.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Condascending and Shaming Gospel Tracts]]></title>
-    <link href="http://nsewell.com//blog/2013/03/31/shaming-tracts/"/>
-    <updated>2013-03-31T21:56:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/03/31/shaming-tracts</id>
-    <content type="html"><![CDATA[<p>I just came across one of the most condescending, self righteous and judgemental Christian tracts to shame young people about their lives I&#8217;ve ever seen.</p>
-
-<p><img class="center Satisfied, Teen Ager" src="http://nsewell.com//images/teenager1.jpg">
-<img class="center Satisfied, Teen Ager" src="http://nsewell.com//images/teenager2.jpg"></p>
-
-<blockquote><p>Within you there is an emptiness - a vacuum. You&#8217;ve tried to find satisfaction. Drinking, smoking, petting, indulging in shameful sex acts has not filled that void. Yet, you seek for greater thrills, you cultivate a deeper love for the pleasures of this world. You&#8217;ve tried to convince yourself that you are happy, but <em>HELL</em> rages within.</p>
-
-<p><em>SOON!</em> you will stand before the almighty God on the judgment day and give an account of every dirty joke, curse word, evil action and neglected opportunity of being saved from all sin.</p>
-
-<p><em>REPENTANCE</em> means confessing all our sins&#8230; <em>REPENTANCE</em> means forsaking all sin, a complete turning away from being a rebel, from ungodly friends, form conformity with the world, from secret sins and habits of the flesh, from filthy books and naked photographs, from dirty stories and unclean jokes, from everything and everybody that would hinder you from being one hundred percent for Jesus Christ&#8230;</p>
-
-<p><em>REPENTANCE</em> means making restitution. In other words, make your back paths straight; make things right with those whom you have wronged. This includes taking back stolen property or paying back stolen money. Restitution involves asking of forgiveness of parents for improper attitudes towards them, disobedience, and disrespect.</p></blockquote>
-
-<p>Of course most tracts aren&#8217;t intended to convert people to Christianity, just to satisfy the &#8216;evangelist&#8217; that they are doing their job by presenting the very worst of Christian judgementalism. Jack Chick&#8217;s <a href="http://www.stufffundieslike.com/2013/02/catholic-bashing/">rabid anti-Catholic sentiment makes this clear</a>:</p>
-
-<p><img class="center JTC Catholic Bashing" src="http://nsewell.com//images/catholic-bash1.gif">
-<img class="center JTC Catholic Bashing" src="http://nsewell.com//images/catholic-bash2.jpg">
-<img class="center JTC Catholic Bashing" src="http://nsewell.com//images/catholic-bash3.jpg"></p>
-
-<p>Of course, people giving out these tracts don&#8217;t care about how the recipients receive them, they are really only there to give out as many tracts as quickly as possible <a href="http://www.stufffundieslike.com/2012/11/tract-smack-down/">to appease other Christians</a>:</p>
-
-<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('58pU8WBu0Vc');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/58pU8WBu0Vc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('58pU8WBu0Vc-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
-<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/58pU8WBu0Vc/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=58pU8WBu0Vc" id="58pU8WBu0Vc" onclick="return false;">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/58pU8WBu0Vc/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=58pU8WBu0Vc" id="58pU8WBu0Vc-rep" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Smack Down - tract distribution</div>
-</a>
-<div class="video-info" >Brother Bernard brings his Marine Corps style to tract distribution. A &#8220;Smack Down&#8221; is a fun way to distribute a lot of tracts in a little time - and get some good exercise as a bonus.
-
-The Bible Baptist Church of DeLand
-Pastor James W. Knox
-
-Our web site is http://www.jamesknox.com</div>
-</div>
-
-
-
 ]]></content>
   </entry>
   
