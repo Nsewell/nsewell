@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: programming | Nick Sewell]]></title>
+  <link href="http://nsewell.com//blog/categories/programming/atom.xml" rel="self"/>
+  <link href="http://nsewell.com//"/>
+  <updated>2014-01-07T16:16:13+11:00</updated>
+  <id>http://nsewell.com//</id>
+  <author>
+    <name><![CDATA[Nick Sewell]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Logo]]></title>
+    <link href="http://nsewell.com//blog/2012/07/02/logo/"/>
+    <updated>2012-07-02T16:41:00+10:00</updated>
+    <id>http://nsewell.com//blog/2012/07/02/logo</id>
+    <content type="html"><![CDATA[<p>Logo is a classic lisp like turtle graphics language and was my introduction to programming. With Logo, you can teach some advanced concepts like fractal patterns, and there's some great online examples that demonstrate a few simple, elegant algorithms to generate pretty pictures.</p>
+
+<p>Papert is a really nice online Logo interpreter using JavaScript and Canvas, look at these examples:</p>
+
+<p><img src="http://logo.twentygototen.org/CayQ5WNa.png" alt="Tree (with colour)" />
+<a href="http://logo.twentygototen.org/CayQ5WNa">Tree (with colour)</a>
+<img src="http://logo.twentygototen.org/_REo_2F2.png" alt="Koch Snowflake" />
+<a href="http://logo.twentygototen.org/_REo_2F2">Koch Snowflake</a></p>
+
+<p><img src="http://logo.twentygototen.org/dZ1f62XY.png" alt="Hilbert Curve" />
+<a href="http://logo.twentygototen.org/dZ1f62XY">Hilbert Curve</a>
+<img src="http://logo.twentygototen.org/83EGZPPC.png" alt="Sierpinski triangle" />
+<a href="http://logo.twentygototen.org/83EGZPPC">Sierpinski triangle</a></p>
+
+<p><img src="http://logo.twentygototen.org/4c5iy9iU.png" alt="Sierpinski carpet" />
+<a href="http://logo.twentygototen.org/4c5iy9iU">Sierpinski carpet</a>
+<img src="http://logo.twentygototen.org/hYDSZt8h.png" alt="Sierpinski arrowhead" />
+<a href="http://logo.twentygototen.org/hYDSZt8h">Sierpinski arrowhead</a></p>
+
+<p><img src="http://logo.twentygototen.org/AJeuVkKc.png" alt="Hexaflake" />
+<a href="http://logo.twentygototen.org/AJeuVkKc">Hexaflake</a>
+<img src="http://logo.twentygototen.org/mJjiNzK0.png" alt="Gosper curve" />
+<a href="http://logo.twentygototen.org/mJjiNzK0">Gosper curve</a></p>
+
+<p><img src="http://logo.twentygototen.org/PQD5ksVB.png" alt="Sierpinski triangle in dots" />
+<a href="http://logo.twentygototen.org/PQD5ksVB">Sierpinski triangle in dots</a>
+<img src="http://logo.twentygototen.org/HxD0BYNH.png" alt="Sieve of Erastosthenes (Prime generator)" />
+<a href="http://logo.twentygototen.org/HxD0BYNH">Sieve of Erastosthenes (Prime generator)</a></p>
+]]></content>
+  </entry>
+  
+</feed>
