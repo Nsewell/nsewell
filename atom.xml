@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Nick Sewell]]></title>
-  <link href="http://nsewell.com//atom.xml" rel="self"/>
-  <link href="http://nsewell.com//"/>
-  <updated>2014-01-07T16:16:13+11:00</updated>
-  <id>http://nsewell.com//</id>
+  <link href="http://Nsewell.github.com/nsewell/atom.xml" rel="self"/>
+  <link href="http://Nsewell.github.com/nsewell/"/>
+  <updated>2014-01-27T00:02:27+11:00</updated>
+  <id>http://Nsewell.github.com/nsewell/</id>
   <author>
     <name><![CDATA[Nick Sewell]]></name>
     
@@ -14,13 +14,47 @@
 
   
   <entry>
+    <title type="html"><![CDATA[New Map Shows the Harm of the Anti-Vaccine Movement]]></title>
+    <link href="http://Nsewell.github.com/nsewell/blog/2014/01/26/anti-vax/"/>
+    <updated>2014-01-26T23:54:00+11:00</updated>
+    <id>http://Nsewell.github.com/nsewell/blog/2014/01/26/anti-vax</id>
+    <content type="html"><![CDATA[<p>A new map by the <a href="http://www.cfr.org/interactives/GH_Vaccine_Map/#map">Council on Foreign Relations</a> shows the rising number of vaccine preventable diseases in first world contries. After Andrew Wakefield took out a <a href="http://briandeer.com/wakefield/vaccine-patent.htm">patent on a single Measels vaccine</a> he falsified a study that appeared to show that appeared to show that the Measels, Mumps and Rubella triple antigen was unsafe for children, proposing his own patented vaccine as a &#8220;safer&#8221; alternative. Even after Wakefield&#8217;s paper has been retracted for innacuracy, and he was struck off the medical register for <a href="http://briandeer.com/mmr-lancet.htm">&#8220;dishonest&#8221;, &#8220;unethical&#8221; and &#8220;callous&#8221;</a> behaviour, anti-vaccine hysteria continues to spread thoughout the world. The drop in MMR vaccination rates in Wales to below 80% has caused a widespread measels outbreak, leaving parents of infected teenagers feeling betrayed by the lies of the anti-vaccine movement:</p>
+
+<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('VpA7Cv_4oVo');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/VpA7Cv_4oVo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('VpA7Cv_4oVo-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
+<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/VpA7Cv_4oVo/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=VpA7Cv_4oVo" id="VpA7Cv_4oVo" onclick="return false;">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/VpA7Cv_4oVo/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=VpA7Cv_4oVo" id="VpA7Cv_4oVo-rep" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Wakefield MMR fraud comes home to roost in Wales</div>
+</a>
+<div class="video-info" >Australian ABC Lateline programme looks at the early-2013 outbreak of measles in Wales UK. 
+A recent measles fatality is likely linked to the Andrew Wakefield MMR fraud which led to a baseless reduction in uptake of the MMR vaccine. It&#8217;s apparent that now fear of the demonstrable harm of measles outweighs the fallacious fear of MMR.
+Notifications equal 800 since November 2012 - approximately 7 times that for the entire year of 2012.
+The vast majority of parents now accept that the &#8220;callous&#8221; and deregistered Wakefield is a charlatan and a fraud.</div>
+</div>
+
+
+<p>Interestingly, Wakefield is only the latest in a long line of cranks opposed to the vaccination of children. I recently came across a talk by <a href="http://www.gresham.ac.uk/lectures-and-events/from-jenner-to-wakefield-the-long-shadow-of-the-anti-vaccination-movement">Professor Gareth Williams</a> on the history of the anti-vaccine movement, going right back to Jenner himself. Some doctors opposed cowpox vaccination as smallpox cases were a large portion of their business, but most interestingly many people found religious arguments against vaccination. Theologians in France and England argued that &#8221;<a href="http://abob.libs.uga.edu/bobk/whitem10.html">diseases are sent by Providence for the punishment of sin</a>&#8221; and suggested that Job&#8217;s <a href="https://net.bible.org/#!bible/Job+2:4">boils and ulcers</a> were a result of cowpox vaccination by Satan. One of the most wacko opponents of the Jennerian society wrote that smallpox helped to <a href="http://pds.lib.harvard.edu/pds/view/6059511?n=32&amp;imagesize=1200&amp;jp2Res=.25&amp;printThumbnails=no">lower the size of poor families</a>:</p>
+
+<blockquote><p>why is it not remembered
+that in the populous parts of the Metropolis,
+where the abundance of children exceed the
+means of providing food, and raiment for them,
+this pestilential disease is considered as a merciful
+provision on the part of Providence, to
+lessen the burthen of a poor man&#8217;s family ?</p></blockquote>
+
+<p>Interestingly, while most doctors (Wakefield excluded) would never seek to harm their patients to increase their own business, many pastors coninue to teach that children should not be vaccinated against infectious diseases. Measels outbreaks have been observed in areas with low vaccination rates, commonly correlated with <a href="http://freethoughtblogs.com/butterfliesandwheels/2013/09/vaccines-undermine-divine-providence/">high numbers of evangelical megachurches</a>. Unfortunately, a number of churches order their congregation to eschew medical treatment in favour of prayer, which <a href="http://www.rawstory.com/rs/2014/01/17/idaho-republican-opposes-law-aimed-at-stopping-faith-healing-child-deaths/">Republican lawmakers protect as &#8220;religious freedom&#8221;</a>, even after a spate of preventable deaths.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[A Lonely Quest for Facts on Genetically Modified Crops]]></title>
-    <link href="http://nsewell.com//blog/2014/01/07/gmo-pseudoscience/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2014/01/07/gmo-pseudoscience/"/>
     <updated>2014-01-07T15:57:00+11:00</updated>
-    <id>http://nsewell.com//blog/2014/01/07/gmo-pseudoscience</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2014/01/07/gmo-pseudoscience</id>
     <content type="html"><![CDATA[<p>There&#8217;s a great article in the New York Times about how politicians and the public in Hawaii are <a href="http://www.nytimes.com/2014/01/05/us/on-hawaii-a-lonely-quest-for-facts-about-gmos.html?pagewanted=all&amp;_r=2&amp;">refusing to listen to scientists about how Genetically Modified organisms are safe to eat</a>. It links to a great graph from boingboing pointing out the fallacy of <a href="http://boingboing.net/2013/01/01/correlation-between-autism-dia.html">confusing corellation with causation</a>:</p>
 
-<p><img src="http://nsewell.com//images/organic-autism.png" title="A facile corellation shown between organic food sales and autism diagnoses" ></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/organic-autism.png" title="A facile corellation shown between organic food sales and autism diagnoses" ></p>
 
 <p>Science Magazine is one of the bastions of reason, with Nobel lauriets signing an open letter denouncing the <a href="http://www.sciencemag.org/content/341/6152/1320.full">destruction of test crops</a></p>
 
@@ -44,9 +78,9 @@
   
   <entry>
     <title type="html"><![CDATA[Pia Waugh on Technology's new Citizinship at TEDx]]></title>
-    <link href="http://nsewell.com//blog/2014/01/07/pia-ted/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2014/01/07/pia-ted/"/>
     <updated>2014-01-07T11:34:00+11:00</updated>
-    <id>http://nsewell.com//blog/2014/01/07/pia-ted</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2014/01/07/pia-ted</id>
     <content type="html"><![CDATA[<p>Pia Waugh is the former president of Linux Australia, and she gave a great talk at a TEDx event in Canberra:</p>
 
 <div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('iqjM_HU0WSw');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/iqjM_HU0WSw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('iqjM_HU0WSw-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
@@ -75,33 +109,10 @@ In the spirit of ideas worth spreading, TEDx is a program of local, self-organiz
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[vaccination-religion]]></title>
-    <link href="http://nsewell.com//blog/2014/01/01/vaccination-religion/"/>
-    <updated>2014-01-01T23:54:00+11:00</updated>
-    <id>http://nsewell.com//blog/2014/01/01/vaccination-religion</id>
-    <content type="html"><![CDATA[<p>Liquid error: undefined method `[]&#8217; for nil:NilClass</p>
-
-<p>THEOLOGICAL OPPOSITION TO INOCULATION, VACCINATION, AND THE USE OF ANAESTHETICS
-http://abob.libs.uga.edu/bobk/whitem10.html</p>
-
-<p>http://freethoughtblogs.com/butterfliesandwheels/2013/09/vaccines-undermine-divine-providence/</p>
-
-<p>http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20580
-https://www.biomedcentral.com/content/pdf/1471-2458-11-102.pdf</p>
-
-<p>http://pds.lib.harvard.edu/pds/view/6059511?n=8&amp;printThumbnails=no</p>
-
-<p>http://pds.lib.harvard.edu/pds/view/6059511?n=30&amp;imagesize=1200&amp;jp2Res=.25&amp;printThumbnails=no</p>
-
-<p>http://abob.libs.uga.edu/bobk/whitem10.html</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[The Moralising Effect of the Disgust Reflex]]></title>
-    <link href="http://nsewell.com//blog/2013/12/31/disgust/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/12/31/disgust/"/>
     <updated>2013-12-31T03:55:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/12/31/disgust</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/12/31/disgust</id>
     <content type="html"><![CDATA[<p>David Pizarro</p>
 
 <div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('5YL3LT1ZvOM');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/5YL3LT1ZvOM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('5YL3LT1ZvOM-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
@@ -128,9 +139,9 @@ Subscribe to our channel: http://www.youtube.com/user/TEDtalksDirector</div>
   
   <entry>
     <title type="html"><![CDATA[Maximum Sentence for Abusive Fundamentalist Parents]]></title>
-    <link href="http://nsewell.com//blog/2013/11/04/williams-max-sentence/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/11/04/williams-max-sentence/"/>
     <updated>2013-11-04T12:52:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/11/04/williams-max-sentence</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/11/04/williams-max-sentence</id>
     <content type="html"><![CDATA[<p>Larry and Carri Williams adopted two</p>
 
 <div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('CNgzn47aP9g');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/CNgzn47aP9g&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('CNgzn47aP9g-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
@@ -155,9 +166,9 @@ http://www.dailymail.co.uk/news/article-2416514/Hana-Williams-Washington-adoptiv
   
   <entry>
     <title type="html"><![CDATA[Phil Zuckerman on the Basis for a Civil Society]]></title>
-    <link href="http://nsewell.com//blog/2013/11/01/zuckerman/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/11/01/zuckerman/"/>
     <updated>2013-11-01T00:13:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/11/01/zuckerman</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/11/01/zuckerman</id>
     <content type="html"><![CDATA[<p>Phil Zuckerman recently took part in a debate with David Marshall on whether religion or secularism is a better basis for a civil society. After <a href="http://www.huffingtonpost.com/phil-zuckerman/adventure-in-christian-in_b_4124618.html">initially refusing to post the video online</a> because they thought Zuckerman won, the church caved and the <a href="http://vimeo.com/77532575">video is up</a>.</p>
 
 <div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('u_QDJ7DOD_Y');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/u_QDJ7DOD_Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('u_QDJ7DOD_Y-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
@@ -196,9 +207,9 @@ Phil Zuckerman is a professor of sociology and secular studies at Pitzer College
   
   <entry>
     <title type="html"><![CDATA[The Bishop of Bling Exposing Resentment of Catholicism]]></title>
-    <link href="http://nsewell.com//blog/2013/10/25/bishop-bling/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/10/25/bishop-bling/"/>
     <updated>2013-10-25T09:27:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/10/25/bishop-bling</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/10/25/bishop-bling</id>
     <content type="html"><![CDATA[<p>The pope has <a href="http://www.abc.net.au/news/2013-10-23/pope-banishes-germany27s-bling-bishop-from-diocese/5041880">banished the &#8220;Bishop of Bling&#8221;</a> Franz-Peter Tebartz-van Elst over allegations of lying.</p>
 
 <p>Franz-Peter Tebartz-van Elst announced that his diocean centre would cost 5.5 million euros in 2010, but the architect <a href="https://en.wikipedia.org/wiki/Franz-Peter_Tebartz-van_Elst">admitted that the true cost was known to be much higher from the start</a>, with plans for extravagant addons like half a million euros for art and 20,000 for a bathtub causing the project to blow out to 32 million euros. This came at a time when his staff were facing funding cuts because of a savings plan instituted a principle of austerity in the church.</p>
@@ -276,9 +287,9 @@ If you like my work, please support it by picking up your awesome Tee&#8217;s fr
   
   <entry>
     <title type="html"><![CDATA[Masking race politics in the southern strategy]]></title>
-    <link href="http://nsewell.com//blog/2013/10/16/southern-strategy/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/10/16/southern-strategy/"/>
     <updated>2013-10-16T17:19:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/10/16/southern-strategy</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/10/16/southern-strategy</id>
     <content type="html"><![CDATA[
 
 <div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('X_8E3ENrKrQ');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/X_8E3ENrKrQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('X_8E3ENrKrQ-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
@@ -303,9 +314,9 @@ Now, the same indefatigable researcher who brought us Mitt Romney’s “47 perc
   
   <entry>
     <title type="html"><![CDATA[Pat Robertson the Nutritionist Finds Low-Carb Diet Violates God's Principles]]></title>
-    <link href="http://nsewell.com//blog/2013/10/12/robertson-nutrition/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/10/12/robertson-nutrition/"/>
     <updated>2013-10-12T19:24:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/10/12/robertson-nutrition</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/10/12/robertson-nutrition</id>
     <content type="html"><![CDATA[<p>Pat Robertson finds that a low-carb diet is a violation of God&#8217;s principles</p>
 
 <div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('xttOoQGtCIQ');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/xttOoQGtCIQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('xttOoQGtCIQ-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
@@ -350,9 +361,9 @@ Pat Robertson claims if you buy halal foods, you are supporting Islamic extremis
   
   <entry>
     <title type="html"><![CDATA[Phil Plait Outraged at Spherist Bias]]></title>
-    <link href="http://nsewell.com//blog/2013/10/12/plait-spherist/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/10/12/plait-spherist/"/>
     <updated>2013-10-12T17:40:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/10/12/plait-spherist</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/10/12/plait-spherist</id>
     <content type="html"><![CDATA[<p>Recently the LA Times has made waves with news that they <a href="http://www.latimes.com/opinion/opinion-la/la-ol-climate-change-letters-20131008,0,871615.story">censor untrue assertions from their opinion pages</a>. Astronomer Phil Plait writes to the LA Times to complain about their blatant spherist bias, and their failure to <a href="http://www.slate.com/blogs/bad_astronomy/2013/10/10/an_open_letter_to_the_l_a_times_editors.html">teach the controversy on the flattness of the earth</a>:</p>
 
 <blockquote><p>Dear L.A. Times Editors:
@@ -366,9 +377,9 @@ It has come to my attention that you will no longer be publishing letters to the
   
   <entry>
     <title type="html"><![CDATA[Tony Abbott Messes With ACT's Marriage Laws]]></title>
-    <link href="http://nsewell.com//blog/2013/10/11/abbott-marriage-equality/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/10/11/abbott-marriage-equality/"/>
     <updated>2013-10-11T18:30:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/10/11/abbott-marriage-equality</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/10/11/abbott-marriage-equality</id>
     <content type="html"><![CDATA[<p>When Tony Abbott was asked about his views on same sex marriage in the leader&#8217;s debate, he replied with this:</p>
 
 <blockquote><p>&#8220;It&#8217;s a very important issue. I know how important an issue it is. It&#8217;s not the only important issue and I&#8217;ve got to say as far as an incoming Coalition government is concerned, the priority will be on things like reducing cost-of-living pressure and increasing job security.&#8221;</p></blockquote>
@@ -404,9 +415,9 @@ George Brandis has claimed that the ACT Bill would undermine the &#8216;well-est
   
   <entry>
     <title type="html"><![CDATA[Common Cognitive Mistakes and How to Prevent Them]]></title>
-    <link href="http://nsewell.com//blog/2013/10/06/cognitive-mistakes/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/10/06/cognitive-mistakes/"/>
     <updated>2013-10-06T12:00:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/10/06/cognitive-mistakes</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/10/06/cognitive-mistakes</id>
     <content type="html"><![CDATA[<p>Good post on the <a href="http://blog.bufferapp.com/thinking-mistakes-8-common-mistakes-in-how-we-think-and-how-to-avoid-them">Buffer blog on cognitive errors</a>. There&#8217;s good discussion of Dan Ariely&#8217;s work on anchoring and pricing, as well as this classic about the conjuction fallacy:</p>
 
 <blockquote><p>In 1983 Kahneman and Tversky tested how illogical human thinking is by describing the following imaginary person:</p>
@@ -469,9 +480,9 @@ Here’s where it can get a bit tricky to understand (at least, it did for me!)�
   
   <entry>
     <title type="html"><![CDATA[Kevin Breel's Stellar Talk on Depression]]></title>
-    <link href="http://nsewell.com//blog/2013/10/06/depression-kevin-breel/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/10/06/depression-kevin-breel/"/>
     <updated>2013-10-06T11:25:00+11:00</updated>
-    <id>http://nsewell.com//blog/2013/10/06/depression-kevin-breel</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/10/06/depression-kevin-breel</id>
     <content type="html"><![CDATA[<p>Kevin Breel&#8217;s impassioned talk at TEDxKids on depression and the need for honesty has been going around on social media. Depression is a taboo topic, but it&#8217;s important for everyone like myself who don&#8217;t suffer from clinical depression to understand that the stigmatising of mental health issues can be more of a challenge for sufferers than their disease.</p>
 
 <div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('VYs05qPycYQ');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/VYs05qPycYQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('VYs05qPycYQ-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
@@ -504,9 +515,9 @@ In the spirit of ideas worth spreading, TEDx is a program of local, self-organiz
   
   <entry>
     <title type="html"><![CDATA[Are Female Singers Too Sexualised?]]></title>
-    <link href="http://nsewell.com//blog/2013/10/02/perry-grace-of-god/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/10/02/perry-grace-of-god/"/>
     <updated>2013-10-02T23:48:00+10:00</updated>
-    <id>http://nsewell.com//blog/2013/10/02/perry-grace-of-god</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/10/02/perry-grace-of-god</id>
     <content type="html"><![CDATA[<p>Conservatives love to bemoan how &#8220;Hollywood values&#8221; are not in line with their own views, and how the views of young people differing from their own must be a result of the media and colleges having a &#8220;liberal bias&#8221;. While the media that people consume may be an embodiment of cultural values at the time, unless anything particularly eggregious is being marketed to children that have no understanding of society&#8217;s views then this is mostly an overreaction. This particularly plays into the way that people view female musicians, that tend to be criticised simultaneously for beeing too sexual and not sexy enough.</p>
 
 <p>I&#8217;m going to briefly look at a few female performers, and the kinds of expectations placed on them by different sectors of the community.</p>
@@ -568,7 +579,7 @@ Yeah, <strong>the truth will set you free</strong></p></blockquote>
 
 <p>When Destiny Hope Cyrus rose to fame after being cast in Disney&#8217;s Hannah Montanna, many were enamoured with the country singer&#8217;s daughter from the buckle of the bible belt. To add to her family friendly charm, she described her Christian faith as &#8221;<a href="http://www.parade.com/celebrity/2010/03/miley-cyrus.html">very important</a>&#8221; and wrote about keeping the faith in <em>The Climb</em>. Some even saw her as part of a new movement of conservative Christian public figures that would bring the US <a href="http://web.archive.org/web/20130703010527/http://conservapedia.com/Essay:The_Coming_Fifth_Great_Awakening_in_America">back to social conservatism in a new great awakening</a>:</p>
 
-<p><img src="http://nsewell.com//images/cyrus-c.png" alt="Conservapedia praises Cyrus's Christianity" /></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/cyrus-c.png" alt="Conservapedia praises Cyrus's Christianity" /></p>
 
 <p>Cyrus in 2007 described her stardom as being &#8221;<a href="http://usatoday30.usatoday.com/life/television/news/2007-01-10-miley-cyrus_x.htm">God&#8217;s will</a>&#8221;, promising that she wouldn&#8217;t start going crazy under the spotlight.</p>
 
@@ -580,11 +591,11 @@ Yeah, <strong>the truth will set you free</strong></p></blockquote>
 
 <p>Miley went on to present an increasingly edgy image, with most media outlets <a href="http://www.theonion.com/articles/let-me-explain-why-miley-cyrus-vma-performance-was,33632/">disproportionately covering her antics instead of actual news</a>. This is the <a href="http://imgur.com/gallery/Qy8xE">latest controvertial act</a>:</p>
 
-<p><img src="http://nsewell.com//images/cyrus.gif" alt="Cyrus VMA performance" /></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/cyrus.gif" alt="Cyrus VMA performance" /></p>
 
 <p>Why would she do such a thing? Probably because Professor Lawrence Krauss has addled her brain:</p>
 
-<p><img src="http://nsewell.com//images/cyrus-1.png" alt="Cyrus tweeting a beautiful quote from Lawrence Krauss" /></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/cyrus-1.png" alt="Cyrus tweeting a beautiful quote from Lawrence Krauss" /></p>
 
 <p>Sinead O&#8217;Connor wrote an <a href="http://www.sineadoconnor.com/2013/10/open-letter-to-miley-cyrus/">open letter to Cyrus, complaining that she regrets her record label pushing her to be too sexual</a>. Cyrus responded that she was <a href="http://www.theage.com.au/entertainment/music/miley-to-sinead-im-too-busy--performing-and-hosting-on-tv-to-write-back-20131004-2uy8m.html">too busy to write back</a>, though the whole thing has turned ugly with mental health issues being discussed publicly.</p>
 
@@ -600,9 +611,9 @@ Yeah, <strong>the truth will set you free</strong></p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Why Popular Science and I Turn Off Comments]]></title>
-    <link href="http://nsewell.com//blog/2013/09/26/comments-suck/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/09/26/comments-suck/"/>
     <updated>2013-09-26T03:18:00+10:00</updated>
-    <id>http://nsewell.com//blog/2013/09/26/comments-suck</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/09/26/comments-suck</id>
     <content type="html"><![CDATA[<p>Popular Science recently announced that they are shutting down the comments for new articles, as they can skew the readers into <a href="http://www.popsci.com/science/article/2013-09/why-were-shutting-our-comments">distrusting the expertise of scientists</a>. Recent studies have found that incivility in the comment section can alter the perception of the credibility of the articles they accompany. In one study, readers of a fake blog post on nanotechnology were asked to evaluate it&#8217;s impact, with <a href="http://www.nytimes.com/2013/03/03/opinion/sunday/this-story-stinks.html?_r=0">one group exposed to vituperative comments</a>:</p>
 
 <blockquote><p> Uncivil comments not only polarized readers, but they often changed a participant&#8217;s interpretation of the news story itself.<br/>
@@ -631,9 +642,9 @@ Yeah, <strong>the truth will set you free</strong></p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Sexual Politics in Rome]]></title>
-    <link href="http://nsewell.com//blog/2013/09/22/sexual-politics/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/09/22/sexual-politics/"/>
     <updated>2013-09-22T14:27:00+10:00</updated>
-    <id>http://nsewell.com//blog/2013/09/22/sexual-politics</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/09/22/sexual-politics</id>
     <content type="html"><![CDATA[<p>Pope Francis has recently made international headlines by suggesting <a href="www.americamagazine.org/pope-interview">that the Catholic Church is too focused on gays and abortion</a>. This follows from his earlier comments that <a href="http://www.independent.co.uk/news/world/europe/pope-francis-assures-atheists-you-dont-have-to-believe-in-god-to-go-to-heaven-8810062.html">atheists who follow their conscience might be able to go to heaven</a> and that he isn&#8217;t in a position to judge <a href="http://www.smh.com.au/world/pope-on-gay-priests-who-am-i-to-judge-20130730-2qvh9.html">celibate gay Catholics</a>. This is a major turnaround from the culture war style dealings with the public the church pushed under Benedict, culminating in the <a href="https://en.wikipedia.org/wiki/Manhattan_Declaration:_A_Call_of_Christian_Conscience">Manhattan Declaration</a>&#8217;s popularity.</p>
 
 <p>Most of the current culture war issues revolve around <a href="http://www.rightwingwatch.org/category/topics/feminism">gender politics</a>, and these disputes likely go back to the start of the church. This history channel documentary presents expert opinions on New Testament apocrypha, including the <a href="https://en.wikipedia.org/wiki/Acts_of_Paul_and_Thecla">Acts of Paul and Thecla</a></p>
@@ -652,7 +663,7 @@ Yeah, <strong>the truth will set you free</strong></p></blockquote>
 
 <p>Paul, it is said, then allowed Thecla to travel with him throughout the land, so long as she didn&#8217;t let her looks tempt the people. In Antioch, an magistrate called Alexander was taken with her, and grabbed her and kissed her as his way of proposition. Vowed to chastity, Thecla responded by knocking the crown off his head and ripping his cloak open so as to humiliate him in front of the people he ruled. Ashamed, Alexander took her to the governor who ordered her be thrown to the lions. Alexander had support from the men of the town, but the women of the town felt sympathy for the virgin and felt the punishment unjust. Before being cast into the amphitheatre to confront her fate, Thecla cried out in faith to her god to protect her innocence, and a she-lion fiercer than all the beasts fell down before her. The she-lion then killed the beasts that attacked Thecla, including male lions and a she-bear. This is probably a reference to Elisha&#8217;s she-bears, and Daniel&#8217;s lions.</p>
 
-<div class="figure"><a href="http://dashinvaine.deviantart.com/art/Thecla-in-the-Arena-373006770"><img src="http://nsewell.com//images/thecla-lions.jpg" link="http://dashinvaine.deviantart.com/art/Thecla-in-the-Arena-373006770" title="Thecla and the lions by Gordon Napier" ><p>Thecla and the lions by Gordon Napier</span></a></div>
+<div class="figure"><a href="http://dashinvaine.deviantart.com/art/Thecla-in-the-Arena-373006770"><img src="http://Nsewell.github.com/nsewell/images/thecla-lions.jpg" link="http://dashinvaine.deviantart.com/art/Thecla-in-the-Arena-373006770" title="Thecla and the lions by Gordon Napier" ><p>Thecla and the lions by Gordon Napier</span></a></div>
 
 
 <p>Next Thecla decided to baptise herself in a pool of sharks. Upon baptising herself in the name of Jesus, the sharks were struck with fire and lightning, and she was protected with a ring of fire. The women threw ointments into the field to knock out the other animals, so Alexander brought in his strongest bulls to have Thecla tied to. So the governor&#8217;s men tied a rope around Thecla&#8217;s waist to bulls that became enraged when hit by a hot poker in the nads. But the divine fire around Thecla burned off the rope fastened to the members of the bulls. When a powerful widow and relative of Caesar collapsed with worry for Thecla, the governor put an end to her trials fearing for his reputation, and officially pardoned Thecla. Thecla proclaimed the message of Christianity, converting many young men and women, and dressed as a man, led her new followers to find Paul who had run off amongst the commotion.</p>
@@ -681,19 +692,19 @@ Yeah, <strong>the truth will set you free</strong></p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Politics Wrecks Your Brain]]></title>
-    <link href="http://nsewell.com//blog/2013/09/20/politics-wrecks-your-brain/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/09/20/politics-wrecks-your-brain/"/>
     <updated>2013-09-20T12:13:00+10:00</updated>
-    <id>http://nsewell.com//blog/2013/09/20/politics-wrecks-your-brain</id>
-    <content type="html"><![CDATA[<div class="figure"><a href="http://www.flickr.com/photos/michaelkeen/3892771349/"><img src="http://nsewell.com//images/confused-monkey.jpg" link="http://www.flickr.com/photos/michaelkeen/3892771349/" title="Confused Monkey" ><p>Confused Monkey</span></a></div>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/09/20/politics-wrecks-your-brain</id>
+    <content type="html"><![CDATA[<div class="figure"><a href="http://www.flickr.com/photos/michaelkeen/3892771349/"><img src="http://Nsewell.github.com/nsewell/images/confused-monkey.jpg" link="http://www.flickr.com/photos/michaelkeen/3892771349/" title="Confused Monkey" ><p>Confused Monkey</span></a></div>
 
 
 <p>Everyone knows the old rule of avoiding bringing up religion and politics in polite company to keep discussions civil. Political disagreements often become pointed and vituperative because people who are otherwise open to new ideas can become defensive when their political views are questioned. While most people believe that others will see things their way if they simply <a href="https://en.wikipedia.org/wiki/Information_deficit_model">had the right information</a>, the reality is that people presented with new information will typically interpret in light of what they already know. A new study from Yale shows just how bad the problem can be, with people <a href="http://www.motherjones.com/politics/2013/09/new-study-politics-makes-you-innumerate">letting their political views get in the way of thinking clearly</a>.</p>
 
 <p>Dan Kahan presented students with a simple number problem, asking them to determine whether a certain intervention improves or worsens a problem. Respondents were presented with one version asking about skin rashes (a neutral problem) and another version asking them about gun control and crime (a deeply polarising ongoing political argument). The respondents were presented with the following table and asked whether the intervention worked:</p>
 
-<p><img src="http://nsewell.com//images/Kahan1.png"></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/Kahan1.png"></p>
 
-<p>Figuring out whether the cream works requires computing two ratios, and comparing whether the intervention worked better in the experimental group than the control group. In the experimental group, there is a 3:1 ratio of improvement to worsening, leading to the intuitive answer that the intervention works. But the correct answer is only found when that ratio is compared to the 5:1 improvement in the control group. As I&#8217;ve already written about, people can <a href="http://nsewell.com//blog/2013/06/12/are-you-a-racist/">make errors in basic maths problems by settling for the intuitive answer</a>, rather than double checking their work to find the correct one.</p>
+<p>Figuring out whether the cream works requires computing two ratios, and comparing whether the intervention worked better in the experimental group than the control group. In the experimental group, there is a 3:1 ratio of improvement to worsening, leading to the intuitive answer that the intervention works. But the correct answer is only found when that ratio is compared to the 5:1 improvement in the control group. As I&#8217;ve already written about, people can <a href="http://Nsewell.github.com/nsewell/blog/2013/06/12/are-you-a-racist/">make errors in basic maths problems by settling for the intuitive answer</a>, rather than double checking their work to find the correct one.</p>
 
 <p>On average only 41% of respondents got the answer about skin care right, with more numerate respondents getting the answer right more of the time. Unfortunately, with the question on gun control, highly numerate Democrats and Republicans tended to get the answer right when the intuitive answer didn&#8217;t align with their political philosophy, but were unlikely to get the answer right when the intuitive answer agreed with their political philosophy. Kahan&#8217;s data suggests that people with high scientific literacy and numeracy are still likely to misinterpret scientific findings if they agree or disagree with their political biases. Earlier work found that people with a high level of scientific literacy, on average, are <a href="http://www.nature.com/nclimate/journal/v2/n10/full/nclimate1547.html">more sceptical of climate change</a>, with views more politically polarised the more knowledgeable the individuals are.</p>
 
@@ -705,7 +716,7 @@ Yeah, <strong>the truth will set you free</strong></p></blockquote>
 
 <blockquote><p>In every city the population has been divided for a long time past into the Blue and the Green factions; but within comparatively recent times it has come about that, for the sake of these names and the seats which the rival factions occupy in watching the games, they spend their money and abandon their bodies to the most cruel tortures, and even do not think it unworthy to die a most shameful death. And they fight against their opponents knowing not for what end they imperil themselves, but knowing well that, even if they overcome their enemy the fight, the conclusion of the matter for them will be to be carried off straight away to the prison, and finally, after suffering extreme torture, to be destroyed. So there grows up in them against their fellow men a hostility which has no cause, and at no time does it cease or disappear, for it gives place neither to the ties of marriage nor of relationship nor of friendship, and the case is the same even though those who differ with respect to these colours be brothers or any other kin</p></blockquote>
 
-<p><img src="http://nsewell.com//images/Ben-Hur.jpg" title="Chariot Racing, from Ben Hur" ></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/Ben-Hur.jpg" title="Chariot Racing, from Ben Hur" ></p>
 
 <p>The horse races could kill and maim participants, and some of the supporters, in their colours would smuggle weapons into the stadium (that seated 150,000) to start fights with the supporters of the other team. These fights broke out not just because of the sport, but because the tribal identity of the sports teams lead their supporters to fight over political issues, and theological debates coming from the <a href="https://en.wikipedia.org/wiki/Chalcedonian_Christianity">Fourth Ecumenical council</a>. This culminated in a riot that Procopius estimated <a href="http://blogs.smithsonianmag.com/history/2012/03/blue-versus-green-rocking-the-byzantine-empire/">killed up to 30,000</a></p>
 
@@ -719,9 +730,9 @@ Yeah, <strong>the truth will set you free</strong></p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Kevin Rudd on Biblical Slavery]]></title>
-    <link href="http://nsewell.com//blog/2013/09/03/rudd-slavery/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/09/03/rudd-slavery/"/>
     <updated>2013-09-03T21:32:00+10:00</updated>
-    <id>http://nsewell.com//blog/2013/09/03/rudd-slavery</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/09/03/rudd-slavery</id>
     <content type="html"><![CDATA[<p>KRudd has received strong support on social media for <a href="http://www.abc.net.au/news/2013-09-02/rudd-appears-on-q-and-a/4930540">his views on same sex marriage</a>:</p>
 
 <div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('CdU3ooAZSH8');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/CdU3ooAZSH8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('CdU3ooAZSH8-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
@@ -830,10 +841,10 @@ Grant notes that Ephesians 6 &#8220;counter-culturally warns masters never to mi
   
   <entry>
     <title type="html"><![CDATA[Voltaire Dumping on Leibniz]]></title>
-    <link href="http://nsewell.com//blog/2013/08/15/voltaire-dumping-leibniz/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/08/15/voltaire-dumping-leibniz/"/>
     <updated>2013-08-15T12:54:00+10:00</updated>
-    <id>http://nsewell.com//blog/2013/08/15/voltaire-dumping-leibniz</id>
-    <content type="html"><![CDATA[<p><img src="http://nsewell.com//images/krauss-craig.jpg" alt="William Lane Craig and Lawrence Krauss at Sydney Town Hall" />
+    <id>http://Nsewell.github.com/nsewell/blog/2013/08/15/voltaire-dumping-leibniz</id>
+    <content type="html"><![CDATA[<p><img src="http://Nsewell.github.com/nsewell/images/krauss-craig.jpg" alt="William Lane Craig and Lawrence Krauss at Sydney Town Hall" />
 Earlier this week William Lane Craig and Lawrence Krauss discussed cosmologogy and arguments for and against the existence of God. Professor Krauss concluded his opening remarks warning the audience against following the logic of syllogisms like this one:</p>
 
 <blockquote><ol>
@@ -934,28 +945,28 @@ Director: Leonard Bernstein</div>
   
   <entry>
     <title type="html"><![CDATA[The Failure of the Western Gospel]]></title>
-    <link href="http://nsewell.com//blog/2013/07/19/failure-of-the-western-gospel/"/>
+    <link href="http://Nsewell.github.com/nsewell/blog/2013/07/19/failure-of-the-western-gospel/"/>
     <updated>2013-07-19T12:57:00+10:00</updated>
-    <id>http://nsewell.com//blog/2013/07/19/failure-of-the-western-gospel</id>
+    <id>http://Nsewell.github.com/nsewell/blog/2013/07/19/failure-of-the-western-gospel</id>
     <content type="html"><![CDATA[<p>http://markbiwwa.com/2011/06/08/26-awesomely-funny-church-signs/</p>
 
 <p>http://theamericanjesus.net/?p=10943</p>
 
 <p>Christians in the West have a habit of making all the depictions of biblical figures white. This is painfully evident in The Bible series on the History Channel. The series starts its Eurocentric presentation of Jewish scriptures with Adam and Eve as white supermodels:</p>
 
-<p><img src="http://nsewell.com//images/adam-eve.jpg" alt="Adam and Eve as white supermodels" /></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/adam-eve.jpg" alt="Adam and Eve as white supermodels" /></p>
 
 <p>At least they figured out that &#8220;forbidden fruit&#8221; is a fig, long believed to be an aphrodisiac in the Middle East. The producers also cast Mohamen Mehdi Ouazanni as Satan, someone <a href="http://www.news.com.au/entertainment/television/barack-obama-lookalike-mohamen-mehdi-ouazanni-cast-as-satan-in-the-bible/story-e6frfmyi-1226600220510">many have commented has a resemblence to Barak Obama</a>:</p>
 
-<p><img src="http://nsewell.com//images/satan-obama.jpg" alt="Barack Obama looks like Satan" /></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/satan-obama.jpg" alt="Barack Obama looks like Satan" /></p>
 
 <p>While Jesus is shown as distinctively Causasian, Samson was cast as a black actor leading Reverend Wil Gafney to call the series <a href="http://www.wilgafney.com/2013/03/11/black-samson-white-women-on-the-history-channel">&#8220;a continuation of slave-holding racist exegesis.&#8221;</a> The December 2002 cover of Popular Mechanics featured a <a href="http://www.popularmechanics.com/science/health/forensics/1282186">reconstruction of the faces of males from around the time of Jesus</a>. The New Testament says that Jesus disappeared into crowds, and if Jesus looked like other men of the time this is what he would have looked like:</p>
 
-<p><img src="http://nsewell.com//images/black-jesus-face.jpg" alt="Black Jesus by Popular Mechanics" /></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/black-jesus-face.jpg" alt="Black Jesus by Popular Mechanics" /></p>
 
 <p>The Irish producer Roma Downey chose to cast herself as Mary the mother of Jesus, and chose to give the role of Jesus of Nazareth to a similarly white skinned Portugese actor Diogo Morgado:</p>
 
-<p><img src="http://nsewell.com//images/white-jesus.jpg" alt="White Jesus" /></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/white-jesus.jpg" alt="White Jesus" /></p>
 
 <p>If Jesus ever had hair this long, he&#8217;d probably get it stuck in his vice. Europeans love to show Jesus with long hair, despite Paul&#8217;s teaching in 1 Corinthians 11:14 clearly specifying &#8220;Does not nature itself teach you that if a man has long hair, it is a disgrace for him&#8221;. In fact, many contemporary scholars have noted that the Corinthian church existed at a time when male prostitutes had longer hair than other men to make them stand out as homosexuals. Despite this, modern evangelicals have remoulded Orthodox representations of Jesus into a <a href="https://en.wikipedia.org/wiki/Jesus_movement">New Age white hippie</a>.</p>
 
@@ -969,7 +980,7 @@ Director: Leonard Bernstein</div>
 
 <p>Worse, publishers responding to people who like the sound of their own names will &#8220;personalize&#8221; the bible for them, massaging scripture into an ego stoking circlejerk. Isiah 53 no longer reads &#8220;he was pierced for <strong>our</strong> transgressions&#8221; but can be made to say &#8220;he was pierced for <strong>Rachel&#8217;s</strong> transgressions. He was crushed for <strong>Rachel&#8217;s</strong> iniquities.&#8221; The website lets you put in literally any name at all:</p>
 
-<p><img src="http://nsewell.com//images/dahmer.jpg" alt="The bible according to Jeffrey Dahmer" /></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/dahmer.jpg" alt="The bible according to Jeffrey Dahmer" /></p>
 
 <h3>It ain&#8217;t in the bible, but it outta be</h3>
 
@@ -998,7 +1009,7 @@ Director: Leonard Bernstein</div>
 <p>Many bible publishers are trying to contextualise the biblical ideas into american culture. Thomas Nelson has created an <a href="http://www.thomasnelson.com/the-american-patriot-s-bible-1.html">American Patriot Bible</a> with references to American Independance thoughout the biblical text. Others seek to
 <a href="http://www.sbl-site.org/publications/article.aspx?ArticleId=853">Stock car racing bible</a></p>
 
-<div class="figure"><a href="http://www.flickr.com/photos/leewalker28/4989621730/"><img src="http://nsewell.com//images/jesuscar.jpg" link="http://www.flickr.com/photos/leewalker28/4989621730/" title="Jesus car by Lee Walker" ><p>Jesus car by Lee Walker</span></a></div>
+<div class="figure"><a href="http://www.flickr.com/photos/leewalker28/4989621730/"><img src="http://Nsewell.github.com/nsewell/images/jesuscar.jpg" link="http://www.flickr.com/photos/leewalker28/4989621730/" title="Jesus car by Lee Walker" ><p>Jesus car by Lee Walker</span></a></div>
 
 
 <h3>Prosperity theology</h3>
@@ -1010,7 +1021,7 @@ http://www.christianpost.com/news/televangelist-asks-followers-for-79k-to-do-pai
 
 <p>Ultimately many Christians don&#8217;t base their views of their god on the bible, viewing the bible through the lens of the culture they&#8217;re in, which is why their god&#8217;s actions and character reflect their own personal desires and perferences. When one&#8217;s understanding of the Christian God is grounded in pre-existing cultural and social assumptions, statements like this make sense:</p>
 
-<p><img src="http://nsewell.com//images/god-husband.jpg" alt="God as husband" /></p>
+<p><img src="http://Nsewell.github.com/nsewell/images/god-husband.jpg" alt="God as husband" /></p>
 
 <p>This &#8220;deal&#8221; is not the gospel of Christianity, it&#8217;s a <a href="http://ajoyfulvapour.tumblr.com/post/45499852946/this-is-a-load-of-crap-where-is-its-scriptual">load of crap, and a lie, and a load of bollocks</a>. If they don&#8217;t get these stupid ideas from the bible, where do they get them from? There is a widespread cultural assumption that &#8220;everyone knows&#8221; that god wants people to marry &#8220;the one&#8221; for them. Many Christians are happy to play into cultural anxieties about love, sex and singleness to present marriage as part of the &#8220;package deal&#8221; of Christianity. Dagmar Herzog describes the American religious right as pushing a regressive social agenda by painting a rosy picture of marriage, and building on the insecurities of sexual inexperience in youth:</p>
 
