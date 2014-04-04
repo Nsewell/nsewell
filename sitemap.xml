@@ -265,10 +265,6 @@
         <lastmod>2014-03-22T09:25:19+11:00</lastmod>
     </url>
     <url>
-        <loc>http://nsewell.com//blog/2014/03/22/pcc/</loc>
-        <lastmod>2014-03-22T18:49:46+11:00</lastmod>
-    </url>
-    <url>
         <loc>http://nsewell.com//blog/2014/04/05/eye-tracking/</loc>
         <lastmod>2014-04-05T10:22:37+11:00</lastmod>
     </url>
@@ -299,5 +295,9 @@
     <url>
         <loc>http://nsewell.com//unpub/2012-11-29-dumb-christian-things.html</loc>
         <lastmod>2014-01-30T01:05:42+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://nsewell.com//unpub/2014-03-22-pcc.html</loc>
+        <lastmod>2014-03-22T18:49:46+11:00</lastmod>
     </url>
 </urlset>
