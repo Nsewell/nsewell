@@ -4,7 +4,7 @@
   <title><![CDATA[Nick Sewell]]></title>
   <link href="http://nsewell.com//atom.xml" rel="self"/>
   <link href="http://nsewell.com//"/>
-  <updated>2014-04-06T11:19:35+10:00</updated>
+  <updated>2014-04-13T13:51:45+10:00</updated>
   <id>http://nsewell.com//</id>
   <author>
     <name><![CDATA[Nick Sewell]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2013 NSW Crime Figures Released]]></title>
+    <link href="http://nsewell.com//blog/2014/04/13/bocsar/"/>
+    <updated>2014-04-13T13:43:00+10:00</updated>
+    <id>http://nsewell.com//blog/2014/04/13/bocsar</id>
+    <content type="html"><![CDATA[<p>The NSW Bureau of Crime Statistics And Reporting has <a href="http://apo.org.au/research/nsw-recorded-crime-statistics-2013">released figures from 2013</a> showing the trends in crime reporting.</p>
+
+<blockquote><p>This report presents data on crime reported to, or detected by, the NSW Police Force from January 1995 to December 2013, with a focus on the statistical trends for the 24 months ending December 2013. The data were extracted from the Computerised Operational Policing System (COPS) of the NSW Police Force in February 2014.</p>
+
+<p>The report includes an overview of trends in the most recent two-year period for major offence categories, firstly for NSW and then across NSW regions broken down to the Local Government Area (LGA) level. At the State level, for the 24-month period to the end of December 2013 two major offence categories have been trending upwards: indecent assault, act of indecency and other sexual offences (up 7.8%) and fraud (up 13.2%). Seven of the 17 major offence categories were trending downwards: robbery without a weapon (down 11.2%), break and enter dwelling (down 13.3%), break and enter non-dwelling (down 10.5%), motor vehicle theft (down 12.9%), steal from motor vehicle (down 5.0%), steal from person (down 11.8%) and malicious damage to property (down 8.1%).</p>
+
+<p>The NSW graphs for rates of violent and property offences are on page 7 of the report. For violent offences using the 12-month moving average (light grey line) we can see a downward path over the past five years and this can also be seen in the trend tests for the levels of reported offences in Table 1.1. The property offences graph using the 6-month moving average (light grey line) indicates a strong downward path since about 2000 to 2010, after which it stablised before dropping again more recently. Table 1.1 for trend tests on the levels of property offences indicates a stable trend over the last five years, however a significant decrease over the two most recent years.</p></blockquote>
+
+<p>Interestingly, the largest increase in any crime was in &#8220;traffic regulatory offences&#8221;, meaning that the NSW government is using mobile speed cameras to issue more tickets to fill state coffers.</p>
+
+<p><img src="http://nsewell.com//images/bocsar2013.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Eye Tracking Can Predict Political Preferences]]></title>
@@ -750,72 +769,6 @@ terminal patients go to the grabe believing that they have some
 spiritual or mental deficiency that causes their condition, but quacks
 are given an easy excuse for the failures of treatments on patients
 believed to be too “weak” or “faithless”.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Media Manipulation]]></title>
-    <link href="http://nsewell.com//blog/2014/01/28/media-manipulation/"/>
-    <updated>2014-01-28T04:36:00+11:00</updated>
-    <id>http://nsewell.com//blog/2014/01/28/media-manipulation</id>
-    <content type="html"><![CDATA[<p>Following the shooting of Gabrielle Giffords, a large number of left
-leaning media outlets criticised the right wing media’s hype and
-extremism. Dan Lyons took <a href="http://www.fakesteve.net/2011/01/my-talk-with-a-left-wing-hack.html">them to task</a>:</p>
-
-<blockquote><p>The problem began when news became tied to profits. The networks at
-one time used to run news as a loss leader, subsidized by
-entertainment. When that changed, and news started chasing ratings
-(and dollars), the problem began. When dollars started to dry up,
-things only got worse. Networks became desperate and resorted to
-making the news more like entertainment.</p>
-
-<p>The Internet made things worse, in two ways. First, the Internet
-exacerbated the decline in revenues, and heightened the desperation in
-the news business. Trust me, I’m in a position to know, because I’m in
-the business of seeing just how far I can make news people bend in
-order to keep getting my advertising dollars. That influence is
-stronger now than it has ever been. The TV networks and magazines and
-newspapers are desperate and terrified. Stuff that 10 years ago they
-would have thrown back in our face they now do willingly — in fact,
-they don’t even wait for us to suggest it. They suggest it themselves.</p>
-
-<p>But second, and more important, the Internet created an outlet for
-competing and often crazy voices. It gave birth to a new kind of
-“news.” Despite what the new-media pundits claim, the much-celebrated
-“citizen journalism” was all too often just noisy crap and propaganda.</p></blockquote>
-
-<p>Most of the news is written by interns that only get hired if they drive
-enough clicks to their linkbait articles:</p>
-
-<blockquote><p>It’s garbage precisely because online news sites are not primarily
-created to report news. They’re created to make money. Problem is,
-it’s nearly impossible to make money doing what they do. So they
-resort to ever more desperate tricks.</p>
-
-<p>Why is so much online “news” reported in slideshow format? To gin up
-clicks. Not because it is a better way to consume news, because,
-please. Why is HuffPo so crowded with sensationalistic tabloid junk
-about celebrity boobs and fluffy “lists” of “the deadliest ice
-creams.” (And just about everyone else, too. )</p></blockquote>
-
-<p>Ryan Holiday gave a keynote at TNW about how bad glorified blog
-journalism is, and how easy it is to exploit media into running
-“controversial” linkbait stories, like Sasha Grey in an American Apparel
-ad campaign.</p>
-
-<div class="ratio-4-3 embed-video-container" onmouseover="var myAnchor = document.getElementById('ZN9r1-ImSQc');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;z-height:0.5;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/ZN9r1-ImSQc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, document.getElementById('ZN9r1-ImSQc-rep'));myAnchor.parentNode.onmouseover = null;myAnchor.classList.remove('youtube-over');return false;" title="click here to play">
-<a class="youtube-lazy-link youtube-over" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/ZN9r1-ImSQc/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=ZN9r1-ImSQc" id="ZN9r1-ImSQc" onclick="return false;">
-<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/ZN9r1-ImSQc/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=ZN9r1-ImSQc" id="ZN9r1-ImSQc-rep" onclick="return false;">
-<div class="youtube-lazy-link-div"></div>
-<div class="youtube-lazy-link-info">Keynote Ryan Holiday at TNW Conference Europe 2013</div>
-</a>
-<div class="video-info" >Join our upcoming The Next Web Conferences:
-TNW Conference Latin America 2013 (August): http://tnw.to/j0eLe
-TNW Conference USA 2013 (October): http://tnw.to/q40m</div>
-</div>
-
-
-<p>Tim Ferris has <a href="http://www.fourhourworkweek.com/blog/2012/07/18/ryan-holiday/">more details</a>.</p>
 ]]></content>
   </entry>
   
